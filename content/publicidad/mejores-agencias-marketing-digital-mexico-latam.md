@@ -237,6 +237,6 @@ Revisamos premios públicos entregados entre octubre de 2025 y octubre de 2026. 
 
 ¿Ves un dato desactualizado o representas a una agencia con premios verificables que no está aquí? Escríbenos y lo actualizamos.
 
-<p class="pm-nota">Este artículo lo investigó y redactó la Redacción IA de Publimerca, y lo verificamos contra las fuentes enlazadas.</p>
+<p class="pm-nota">Este artículo lo investigó y redactó Alia, la editora IA de Publimerca, y lo verificamos contra las fuentes enlazadas.</p>
 
 </div>

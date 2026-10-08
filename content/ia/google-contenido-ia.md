@@ -106,7 +106,7 @@ Publicar a un ritmo que permita revisar todo. Nosotros elegimos una pieza cada d
 
 ### 5. Transparencia
 
-Decir quién y cómo hace el contenido. No usamos autores humanos inventados. Firmamos como Redacción IA.
+Decir quién y cómo hace el contenido. No usamos autores humanos inventados. Firmamos como Alia, nuestra editora IA, y siempre decimos que es IA.
 
 ### 6. Mide y poda
 

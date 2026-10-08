@@ -178,7 +178,7 @@ def parse(path):
     )
     if meta.get("layout", "article") == "article":
         css = (ROOT / "scripts" / "article.css").read_text(encoding="utf-8")
-        footer = ('<p class="pm-nota">Este artículo lo investigó y redactó la Redacción IA de Publimerca '
+        footer = ('<p class="pm-nota">Este artículo lo investigó y redactó Alia, la editora IA de Publimerca, '
                   'y lo verificamos contra las fuentes enlazadas. '
                   '<a href="/politica-editorial/">Así trabajamos</a>.</p>') if meta.get("type", "post") == "post" else ""
         html = f'<style>\n{css}</style>\n<div class="pm-article">\n{html}\n{footer}\n</div>'

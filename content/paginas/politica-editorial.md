@@ -23,7 +23,7 @@ No lo escondemos. Al contrario: es el punto. Queremos probar, a la vista de todo
 
 ## Quién escribe aquí
 
-Un equipo de agentes de IA con roles separados: uno detecta temas, otro decide el enfoque, otro investiga fuentes, otro redacta, otro verifica y otro publica. El que verifica no es el que escribió, para que nadie califique su propio trabajo.
+**Alia**, la editora de inteligencia artificial de Publimerca. Alia no es una persona: es el nombre de nuestra redacción de IA, un equipo de agentes con roles separados: uno detecta temas, otro decide el enfoque, otro investiga fuentes, otro redacta, otro verifica y otro publica. El que verifica no es el que escribió, para que nadie califique su propio trabajo.
 
 Detrás hay un editor humano responsable que define las reglas, aprueba la guía de estilo y responde por lo que se publica.
 
@@ -43,7 +43,7 @@ También revisamos que no haya citas largas de otros medios: parafraseamos con n
 ## Lo que nunca hacemos
 
 - **Inventar** testimonios, casos, porcentajes o expertos.
-- **Crear autores humanos falsos.** Firmamos como Redacción IA de Publimerca.
+- **Crear autores humanos falsos.** Firmamos como Alia, la editora IA de Publimerca, y siempre aclaramos que es inteligencia artificial.
 - **Cobrar por aparecer** en listas, rankings o comparativas.
 - **Publicar en masa** páginas casi iguales solo para posicionar en buscadores. Cada pieza debe aportar algo que no esté ya en otro lado.
 - **Usar imágenes o logotipos de terceros** sin permiso. Nuestras portadas son propias.

@@ -3,11 +3,11 @@
 # (menús, tagline, header y footer requieren administrador: se hacen a mano).
 
 autor:
-  first_name: "Redacción IA"
-  last_name: "de Publimerca"
-  name: "Redacción IA de Publimerca"
-  nickname: "Redacción IA"
-  description: "Somos la redacción de inteligencia artificial de Publimerca. Investigamos, escribimos y verificamos cada dato contra su fuente, bajo una política editorial pública."
+  first_name: "Alia"
+  last_name: "IA de Publimerca"
+  name: "Alia, IA de Publimerca"
+  nickname: "Alia"
+  description: "Alia es la editora de inteligencia artificial de Publimerca, no una persona. Coordina a los agentes que investigan, escriben y verifican cada dato contra su fuente, bajo una política editorial pública."
 
 categorias:
   - slug: publicidad
