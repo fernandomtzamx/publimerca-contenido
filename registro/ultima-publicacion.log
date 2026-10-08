@@ -1,55 +1,73 @@
-fecha: 2026-10-08T04:13:01Z
-commit: bac703e97b81551d01770685c44aca6edccbe733
+fecha: 2026-10-08T04:32:33Z
+commit: 23d1c53e10c0537c3d287b996c4d8e751f03c9a8
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37726355928
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37727898598
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: content/ia/google-contenido-ia.md content/industria/inversion-publicitaria-mexico.md content/marketing-digital/meta-ads-google-ads-tiktok-ads.md content/marketing-digital/problema-seguimiento-leads.md content/marketing-digital/seo-pymes-mexico.md content/publicidad/brief-creativo.md content/publicidad/btl-atl-ttl.md content/publicidad/oreo-cows-explicada.md 
+Argumentos: content/ia/agentes-ia-marketing.md content/ia/herramientas-ia-marketing.md content/ia/prompts-para-marketing.md content/industria/agencias-de-medios.md content/industria/agencias-independientes.md content/marketing-digital/embudo-de-conversion.md content/marketing-digital/influencer-marketing-mexico.md content/marketing-digital/marketing-de-contenidos.md content/publicidad/campanas-navidenas.md content/publicidad/peru-creatividad-latam.md content/publicidad/pitch-de-agencias.md content/publicidad/que-es-un-insight.md 
 /home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py:196: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
-  + etiqueta creada: Google
-  + etiqueta creada: contenido
-  + etiqueta creada: spam
-  + imagen subida: google-contenido-ia-scaled-content-abuse.png (id 1827)
-content/ia/google-contenido-ia.md: post creada (future) id=1828 https://www.publimerca.com/?p=1828
-  + categoría creada: industria
-  + etiqueta creada: inversión publicitaria
-  + etiqueta creada: IAB México
-  + etiqueta creada: medios
-  + etiqueta creada: datos
-  + imagen subida: inversion-publicitaria-mexico.png (id 1829)
-content/industria/inversion-publicitaria-mexico.md: post creada (future) id=1830 https://www.publimerca.com/?p=1830
-  + etiqueta creada: TikTok Ads
-  + etiqueta creada: comparativa
-  + imagen subida: meta-ads-google-ads-tiktok-ads.png (id 1831)
-content/marketing-digital/meta-ads-google-ads-tiktok-ads.md: post creada (future) id=1832 https://www.publimerca.com/?p=1832
-  + etiqueta creada: leads
-  + etiqueta creada: ventas
-  + etiqueta creada: CRM
-  + etiqueta creada: generación de demanda
-  + etiqueta creada: B2B
-  + imagen subida: problema-seguimiento-leads.png (id 1833)
-content/marketing-digital/problema-seguimiento-leads.md: post creada (future) id=1834 https://www.publimerca.com/?p=1834
-  + etiqueta creada: posicionamiento web
-  + imagen subida: seo-para-pymes-mexico.png (id 1835)
-content/marketing-digital/seo-pymes-mexico.md: post creada (future) id=1836 https://www.publimerca.com/?p=1836
-  + etiqueta creada: brief
-  + etiqueta creada: creatividad
-  + etiqueta creada: plantilla
-  + imagen subida: brief-creativo.png (id 1837)
-content/publicidad/brief-creativo.md: post creada (future) id=1838 https://www.publimerca.com/?p=1838
-  + etiqueta creada: BTL
-  + etiqueta creada: ATL
-  + etiqueta creada: TTL
-  + imagen subida: btl-atl-ttl-diferencias.png (id 1839)
-content/publicidad/btl-atl-ttl.md: post creada (future) id=1840 https://www.publimerca.com/?p=1840
-  + etiqueta creada: VML
-  + etiqueta creada: campañas
-  + imagen subida: oreo-cows-campana-explicada.png (id 1841)
-content/publicidad/oreo-cows-explicada.md: post creada (future) id=1842 https://www.publimerca.com/?p=1842
+  + etiqueta creada: agentes de IA
+  + etiqueta creada: automatización
+  + etiqueta creada: marketing
+  + etiqueta creada: tendencias
+  + imagen subida: agentes-ia-marketing.png (id 1843)
+content/ia/agentes-ia-marketing.md: post creada (future) id=1844 https://www.publimerca.com/?p=1844
+  + etiqueta creada: herramientas
+  + etiqueta creada: productividad
+  + imagen subida: herramientas-ia-marketing.png (id 1845)
+content/ia/herramientas-ia-marketing.md: post creada (future) id=1846 https://www.publimerca.com/?p=1846
+  + etiqueta creada: prompts
+  + etiqueta creada: copywriting
+  + etiqueta creada: guía
+  + imagen subida: prompts-para-marketing.png (id 1847)
+content/ia/prompts-para-marketing.md: post creada (future) id=1848 https://www.publimerca.com/?p=1848
+  + etiqueta creada: agencias de medios
+  + etiqueta creada: Omnicom
+  + etiqueta creada: Publicis
+  + etiqueta creada: WPP
+  + etiqueta creada: industria
+  + imagen subida: agencias-de-medios-mexico-latam.png (id 1849)
+content/industria/agencias-de-medios.md: post creada (future) id=1850 https://www.publimerca.com/?p=1850
+  + etiqueta creada: agencias independientes
+  + etiqueta creada: redes globales
+  + imagen subida: agencias-independientes-mexico-latam.png (id 1851)
+content/industria/agencias-independientes.md: post creada (future) id=1852 https://www.publimerca.com/?p=1852
+  + etiqueta creada: embudo de conversión
+  + etiqueta creada: funnel
+  + imagen subida: embudo-de-conversion.png (id 1853)
+content/marketing-digital/embudo-de-conversion.md: post creada (future) id=1854 https://www.publimerca.com/?p=1854
+  + etiqueta creada: influencer marketing
+  + etiqueta creada: creadores de contenido
+  + etiqueta creada: redes sociales
+  + etiqueta creada: Profeco
+  + imagen subida: influencer-marketing-mexico.png (id 1855)
+content/marketing-digital/influencer-marketing-mexico.md: post creada (future) id=1856 https://www.publimerca.com/?p=1856
+  + etiqueta creada: marketing de contenidos
+  + etiqueta creada: blog
+  + etiqueta creada: estrategia
+  + imagen subida: marketing-de-contenidos.png (id 1857)
+content/marketing-digital/marketing-de-contenidos.md: post creada (future) id=1858 https://www.publimerca.com/?p=1858
+  + etiqueta creada: Navidad
+  + etiqueta creada: temporada
+  + imagen subida: campanas-navidenas-que-venden.png (id 1859)
+content/publicidad/campanas-navidenas.md: post creada (future) id=1860 https://www.publimerca.com/?p=1860
+  + etiqueta creada: Perú
+  + imagen subida: peru-creatividad-publicidad-cannes.png (id 1861)
+content/publicidad/peru-creatividad-latam.md: post creada (future) id=1862 https://www.publimerca.com/?p=1862
+  + etiqueta creada: pitch
+  + etiqueta creada: anunciantes
+  + etiqueta creada: procurement
+  + etiqueta creada: relación cliente agencia
+  + imagen subida: pitch-de-agencias.png (id 1863)
+content/publicidad/pitch-de-agencias.md: post creada (future) id=1864 https://www.publimerca.com/?p=1864
+  + etiqueta creada: insight
+  + etiqueta creada: planeación
+  + imagen subida: que-es-un-insight.png (id 1865)
+content/publicidad/que-es-un-insight.md: post creada (future) id=1866 https://www.publimerca.com/?p=1866
