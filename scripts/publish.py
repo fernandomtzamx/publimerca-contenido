@@ -23,6 +23,7 @@ Frontmatter soportado:
 Si ya existe una entrada o página con el mismo slug, se actualiza en lugar de duplicarse.
 """
 import argparse
+import base64
 import os
 import pathlib
 import sys
@@ -62,6 +63,10 @@ class WP:
         self.s = requests.Session()
         self.s.auth = (user, password.replace(" ", ""))
         self.s.headers["User-Agent"] = "publimerca-agente/1.0"
+        # Copia de la credencial en un encabezado propio, por si el servidor borra Authorization
+        # (lo recibe el mu-plugin wordpress/mu-plugins/publimerca-auth.php).
+        token = base64.b64encode(f"{user}:{password.replace(' ', '')}".encode()).decode()
+        self.s.headers["X-Publimerca-Auth"] = f"Basic {token}"
         self._term_cache = {}
 
     def req(self, method, path, **kw):
@@ -77,8 +82,9 @@ class WP:
         print(f"Servidor: {r.headers.get('server', '?')} | via: {r.headers.get('via', '-')} "
               f"| cf-ray: {'sí' if 'cf-ray' in r.headers else 'no'}")
         print(f"Respuesta con credencial real: {r.status_code} {r.json().get('code') if r.headers.get('content-type','').startswith('application/json') else r.text[:120]}")
-        bogus = requests.get(f"{self.api}/users/me", auth=(self.s.auth[0], "xxxx xxxx xxxx xxxx xxxx xxxx"),
-                             headers=self.s.headers, timeout=30)
+        fake = base64.b64encode(f"{self.s.auth[0]}:xxxxxxxxxxxxxxxxxxxxxxxx".encode()).decode()
+        bogus = requests.get(f"{self.api}/users/me", auth=(self.s.auth[0], "xxxxxxxxxxxxxxxxxxxxxxxx"),
+                             headers={**self.s.headers, "X-Publimerca-Auth": f"Basic {fake}"}, timeout=30)
         code = bogus.json().get("code") if bogus.headers.get("content-type", "").startswith("application/json") else bogus.text[:120]
         print(f"Respuesta con contraseña falsa: {bogus.status_code} {code}")
         if code == "rest_not_logged_in":
