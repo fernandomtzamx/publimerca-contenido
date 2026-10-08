@@ -130,6 +130,11 @@ def media_id(self, file_path, alt):
         raise FileNotFoundError(f"imagen no encontrada: {file_path}")
     slug = file_path.stem.lower()
     found = self.req("GET", "media", params={"slug": slug, "context": "edit"})
+    if not found:
+        # WordPress puede renombrar el slug del adjunto (p. ej. "slug-2"); buscar por archivo.
+        found = [m for m in self.req("GET", "media", params={"search": slug, "context": "edit", "per_page": 20})
+                 if pathlib.Path(m.get("source_url", "")).stem.startswith(slug)]
+        found.sort(key=lambda m: m["id"], reverse=True)
     if found:
         mid = found[0]["id"]
         self.req("POST", f"media/{mid}", json={"alt_text": alt})
