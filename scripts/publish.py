@@ -76,11 +76,18 @@ class WP:
         return r.json()
 
     def whoami(self):
-        r = self.s.get(f"{self.api}/users/me", params={"context": "edit"}, timeout=30)
+        import time
+        params = {"context": "edit", "_nc": str(int(time.time() * 1000))}
+        r = self.s.get(f"{self.api}/users/me", params=params, timeout=30,
+                       headers={"Cache-Control": "no-cache", "Pragma": "no-cache"})
         if r.status_code == 200:
             return r.json()
         print(f"Servidor: {r.headers.get('server', '?')} | via: {r.headers.get('via', '-')} "
               f"| cf-ray: {'sí' if 'cf-ray' in r.headers else 'no'}")
+        interesting = {k: v for k, v in r.headers.items()
+                       if any(s in k.lower() for s in ("cache", "litespeed", "x-", "allow", "www-auth", "set-cookie"))}
+        for k, v in interesting.items():
+            print(f"  encabezado {k}: {v[:120]}")
         print(f"Respuesta con credencial real: {r.status_code} {r.json().get('code') if r.headers.get('content-type','').startswith('application/json') else r.text[:120]}")
         fake = base64.b64encode(f"{self.s.auth[0]}:xxxxxxxxxxxxxxxxxxxxxxxx".encode()).decode()
         bogus = requests.get(f"{self.api}/users/me", auth=(self.s.auth[0], "xxxxxxxxxxxxxxxxxxxxxxxx"),
