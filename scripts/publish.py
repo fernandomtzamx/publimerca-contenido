@@ -219,6 +219,9 @@ def publish(wp, path):
         "slug": meta["slug"],
         "content": html,
         "status": meta.get("status", "draft"),
+        # Regla del sitio: sin comentarios ni pingbacks en ninguna entrada o página.
+        "comment_status": "closed",
+        "ping_status": "closed",
     }
     if meta.get("excerpt"):
         payload["excerpt"] = meta["excerpt"]

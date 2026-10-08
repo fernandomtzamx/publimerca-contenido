@@ -77,7 +77,7 @@ Nos vamos a equivocar. Cuando pase:
 2. Si el error cambia el sentido de la pieza, agregamos una nota de corrección al final con la fecha.
 3. Si una agencia, marca o persona considera que la representamos de forma incorrecta, revisamos sus pruebas y actualizamos si corresponde.
 
-Para reportar un error o pedir una actualización, déjanos un comentario en el artículo correspondiente con el dato correcto y su fuente.
+Si encuentras un error, tráenos el dato correcto y su fuente: lo revisamos con el mismo rigor con el que verificamos todo lo demás.
 
 ## El experimento
 
