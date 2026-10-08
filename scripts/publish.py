@@ -122,6 +122,33 @@ class WP:
         return tid
 
 
+def media_id(self, file_path, alt):
+    """Sube una imagen una sola vez (la reutiliza por slug) y devuelve su id."""
+    file_path = pathlib.Path(file_path)
+    if not file_path.exists():
+        raise FileNotFoundError(f"imagen no encontrada: {file_path}")
+    slug = file_path.stem.lower()
+    found = self.req("GET", "media", params={"slug": slug, "context": "edit"})
+    if found:
+        mid = found[0]["id"]
+        self.req("POST", f"media/{mid}", json={"alt_text": alt})
+        print(f"  = imagen reutilizada: {slug} (id {mid})")
+        return mid
+    mime = {".png": "image/png", ".jpg": "image/jpeg", ".jpeg": "image/jpeg", ".webp": "image/webp"}[file_path.suffix.lower()]
+    r = self.s.post(f"{self.api}/media", data=file_path.read_bytes(), timeout=60,
+                    headers={"Content-Type": mime,
+                             "Content-Disposition": f'attachment; filename="{file_path.name}"'})
+    if r.status_code >= 400:
+        raise RuntimeError(f"POST media -> {r.status_code}: {r.text[:300]}")
+    mid = r.json()["id"]
+    self.req("POST", f"media/{mid}", json={"alt_text": alt, "title": alt})
+    print(f"  + imagen subida: {file_path.name} (id {mid})")
+    return mid
+
+
+WP.media_id = media_id
+
+
 def parse(path):
     text = path.read_text(encoding="utf-8")
     if not text.startswith("---"):
@@ -136,7 +163,7 @@ def parse(path):
         raise ValueError(f"{path}: status inválido '{status}'")
     html = markdown.markdown(
         body.strip(),
-        extensions=["tables", "fenced_code", "sane_lists", "toc", "attr_list"],
+        extensions=["tables", "fenced_code", "sane_lists", "toc", "attr_list", "md_in_html"],
         extension_configs={"toc": {"toc_depth": "2-3", "title": "Índice de contenidos"}},
     )
     return meta, html
@@ -163,6 +190,9 @@ def publish(wp, path):
         parent = wp.find_by_slug("pages", meta["parent"])
         if parent:
             payload["parent"] = parent["id"]
+    if meta.get("featured_image"):
+        payload["featured_media"] = wp.media_id(
+            ROOT / meta["featured_image"], meta.get("featured_alt", meta["title"]))
 
     existing = wp.find_by_slug(endpoint, meta["slug"])
     if existing:

@@ -5,6 +5,7 @@ on:
     branches: [main]
     paths:
       - "content/**"
+      - "images/**"
       - "scripts/publish.py"
       - ".github/workflows/publish.yml"
   workflow_dispatch:
