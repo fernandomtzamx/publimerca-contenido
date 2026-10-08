@@ -24,6 +24,7 @@ Si ya existe una entrada o página con el mismo slug, se actualiza en lugar de d
 """
 import argparse
 import base64
+import datetime
 import os
 import pathlib
 import sys
@@ -34,7 +35,7 @@ import yaml
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CONTENT_DIR = ROOT / "content"
-VALID_STATUS = {"draft", "publish", "pending", "private"}
+VALID_STATUS = {"draft", "publish", "pending", "private", "future"}
 
 
 def env(name):
@@ -166,6 +167,12 @@ def parse(path):
         extensions=["tables", "fenced_code", "sane_lists", "toc", "attr_list", "md_in_html"],
         extension_configs={"toc": {"toc_depth": "2-3", "title": "Índice de contenidos"}},
     )
+    if meta.get("layout", "article") == "article":
+        css = (ROOT / "scripts" / "article.css").read_text(encoding="utf-8")
+        footer = ('<p class="pm-nota">Este artículo lo investigó y redactó la Redacción IA de Publimerca '
+                  'y lo verificamos contra las fuentes enlazadas. '
+                  '<a href="/politica-editorial/">Así trabajamos</a>.</p>') if meta.get("type", "post") == "post" else ""
+        html = f'<style>\n{css}</style>\n<div class="pm-article">\n{html}\n{footer}\n</div>'
     return meta, html
 
 
@@ -181,6 +188,13 @@ def publish(wp, path):
     }
     if meta.get("excerpt"):
         payload["excerpt"] = meta["excerpt"]
+    if meta.get("date"):
+        # Fecha local de Ciudad de México (UTC-6, sin horario de verano desde 2022).
+        local = datetime.datetime.fromisoformat(str(meta["date"]))
+        gmt = local + datetime.timedelta(hours=6)
+        payload["date_gmt"] = gmt.strftime("%Y-%m-%dT%H:%M:%S")
+        if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
+            payload["status"] = "future"
     if kind == "post":
         if meta.get("categories"):
             payload["categories"] = [wp.term_id("categories", c) for c in meta["categories"]]

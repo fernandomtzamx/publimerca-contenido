@@ -1,5 +1,6 @@
 ---
 id: 1807
+layout: raw
 title: "Las mejores agencias de marketing digital en México y LATAM (versión sin listas pagadas)"
 slug: mejores-agencias-marketing-digital-mexico-latam
 type: post
