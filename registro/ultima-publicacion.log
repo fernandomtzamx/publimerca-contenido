@@ -1,13 +1,13 @@
-fecha: 2026-10-08T01:37:06Z
-commit: e8ce84c973ac3aed74ac023aaf48f067a0207051
-evento: push
+fecha: 2026-10-08T01:43:52Z
+commit: 34531559b3a079a6d734b4e96d7ed69004ffc7a7
+evento: workflow_dispatch
 resultado: failure
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37713808195
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37714334817
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: --check
+Argumentos: --all
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Servidor: LiteSpeed | via: - | cf-ray: no
@@ -15,8 +15,7 @@ Servidor: LiteSpeed | via: - | cf-ray: no
   encabezado X-Robots-Tag: noindex
   encabezado X-Content-Type-Options: nosniff
   encabezado Access-Control-Allow-Headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
-  encabezado Allow: GET
   encabezado X-Frame-Options: SAMEORIGIN
-Respuesta con credencial real: 401 rest_not_logged_in
-Respuesta con contraseña falsa: 401 rest_not_logged_in
-DIAGNÓSTICO: el encabezado Authorization NO llega a WordPress (lo borra el servidor o un plugin).
+Respuesta con credencial real: 401 invalid_username
+Respuesta con contraseña falsa: 401 invalid_username
+DIAGNÓSTICO: el encabezado SÍ llega; la credencial real es la que falla (usuario o contraseña).
