@@ -58,7 +58,8 @@ def main():
             print(f"ERROR {tipo}/{b['id']}: el slug es '{slug}', no '{b['slug']}'. No se borra.")
             continue
         try:
-            wp.req("DELETE", f"{tipo}/{b['id']}")
+            # Los medios no tienen papelera en la API: requieren force y se borran definitivamente.
+            wp.req("DELETE", f"{tipo}/{b['id']}", params={"force": "true"} if tipo == "media" else None)
             print(f"A la papelera: {tipo}/{b['id']} ({slug})")
         except Exception as e:  # noqa: BLE001
             errors += 1

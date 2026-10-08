@@ -35,3 +35,4 @@ borrar:
   - {id: 1802, slug: privacy-policy-2}     # demo de Avada; falta el aviso de privacidad real
   - {id: 2, slug: sample-page}             # página de ejemplo de WordPress
   - {id: 1804, slug: prueba-de-conexion, tipo: posts}  # borrador de prueba de conexión
+  - {id: 1744, slug: magazine-v3, tipo: media}  # zip de importación de la demo de Avada (definitivo)
