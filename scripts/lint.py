@@ -38,6 +38,11 @@ def check(path):
             errs.append(f"muy corto ({words} palabras)")
         if sources < 2:
             warns.append(f"pocas fuentes enlazadas ({sources})")
+    # Enlaces internos a entradas con fecha posterior a la de esta pieza (darían 404)
+    my_date = str(meta.get("date", ""))[:10]
+    for y, m, d in re.findall(r"\]\(/(\d{4})/(\d{2})/(\d{2})/", body):
+        if my_date and f"{y}-{m}-{d}" > my_date:
+            errs.append(f"enlace interno a una pieza que aún no se publica ({y}-{m}-{d})")
     if len(str(meta.get("title", ""))) > 80:
         warns.append("título de más de 80 caracteres")
     ex = len(str(meta.get("excerpt", "")))
