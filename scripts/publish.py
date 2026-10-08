@@ -134,7 +134,11 @@ def parse(path):
     status = meta.get("status", "draft")
     if status not in VALID_STATUS:
         raise ValueError(f"{path}: status inválido '{status}'")
-    html = markdown.markdown(body.strip(), extensions=["tables", "fenced_code", "sane_lists"])
+    html = markdown.markdown(
+        body.strip(),
+        extensions=["tables", "fenced_code", "sane_lists", "toc", "attr_list"],
+        extension_configs={"toc": {"toc_depth": "2-3", "title": "Índice de contenidos"}},
+    )
     return meta, html
 
 
