@@ -1,22 +1,24 @@
-fecha: 2026-10-08T01:15:37Z
-commit: 40d201ef582c4e263a6fa4487c30e06a04a5aaa9
-evento: workflow_dispatch
+fecha: 2026-10-08T01:16:48Z
+commit: e35d60096f2384e8a6a425fc377a83eebc82f239
+evento: push
 resultado: failure
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37711998718
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37712112756
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: --all
+Argumentos: --check
+Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
+Métodos de autenticación anunciados: application-passwords
 Traceback (most recent call last):
-  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 166, in <module>
+  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 179, in <module>
     main()
-  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 143, in main
+  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 156, in main
     me = wp.whoami()
          ^^^^^^^^^^^
-  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 61, in whoami
+  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 74, in whoami
     return self.req("GET", "users/me", params={"context": "edit"})
            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 57, in req
+  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 70, in req
     raise RuntimeError(f"{method} {path} -> {r.status_code}: {r.text[:300]}")
 RuntimeError: GET users/me -> 401: {"code":"rest_not_logged_in","message":"No est\u00e1s conectado.","data":{"status":401}}
