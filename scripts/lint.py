@@ -25,8 +25,8 @@ def check(path):
             errs.append(f"falta '{k}'")
     if "—" in text or "–" in text:
         errs.append("contiene guion largo o medio")
-    plain = re.sub(r"\(https?://[^)]+\)|<[^>]+>|```.*?```", " ", body, flags=re.S)
-    words = len(re.findall(r"[\wáéíóúñÁÉÍÓÚÑü']+", plain))
+    plain = re.sub(r"\(https?://[^)]+\)|\(/[^)]*\)|<[^>]+>|```.*?```|\[TOC\]|[#*|`>\[\]-]", " ", body, flags=re.S)
+    words = len(plain.split())  # mismo criterio que el texto visible publicado
     sources = len(re.findall(r"\]\(https?://", body))
     if meta.get("type", "post") == "post":
         if not meta.get("date") and meta.get("layout") != "raw":
