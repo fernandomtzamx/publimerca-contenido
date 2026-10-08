@@ -1,0 +1,11 @@
+fecha: 2026-10-08T01:13:08Z
+commit: e80061d03842ae44812146712c5deff2c24acee6
+evento: push
+resultado: failure
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37711782640
+---
+WP_URL: FALTA
+WP_USER: FALTA
+WP_APP_PASSWORD: FALTA
+Argumentos: --check
+Falta la variable de entorno WP_URL
