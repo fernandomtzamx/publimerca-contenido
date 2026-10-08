@@ -82,7 +82,11 @@ class WP:
         r = self.s.get(f"{self.api}/users/me", params=params, timeout=30,
                        headers={"Cache-Control": "no-cache", "Pragma": "no-cache"})
         if r.status_code == 200:
-            return r.json()
+            try:
+                return r.json()
+            except ValueError:
+                sys.exit(f"DIAGNÓSTICO: el servidor respondió 200 sin JSON (posible bloqueo o caché). "
+                         f"server={r.headers.get('server')} | inicio: {r.text[:200]!r}")
         print(f"Servidor: {r.headers.get('server', '?')} | via: {r.headers.get('via', '-')} "
               f"| cf-ray: {'sí' if 'cf-ray' in r.headers else 'no'}")
         interesting = {k: v for k, v in r.headers.items()
