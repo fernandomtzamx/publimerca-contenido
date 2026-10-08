@@ -1,18 +1,70 @@
-fecha: 2026-10-08T19:13:12Z
-commit: cdeb7fe9968c2601f4d6f5c5f9971e9d418c846c
-evento: push
+fecha: 2026-10-08T19:14:57Z
+commit: f52e5fa617cbd0737befd8825500746a66d94be0
+evento: workflow_dispatch
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37830262642
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37830326331
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: content/laboratorio/no-aceptamos-dinero.md content/paginas/quienes-somos.md 
+Argumentos: --all
 /home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py:233: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
+  = imagen reutilizada: agentes-ia-marketing (id 1843)
+content/ia/agentes-ia-marketing.md: post actualizada (future) id=1844 https://www.publimerca.com/?p=1844
+  = imagen reutilizada: geo-generative-engine-optimization (id 1819)
+content/ia/geo-respuestas-ia.md: post actualizada (publish) id=1820 https://www.publimerca.com/geo-generative-engine-optimization/
+  = imagen reutilizada: google-contenido-ia-scaled-content-abuse (id 1827)
+content/ia/google-contenido-ia.md: post actualizada (future) id=1828 https://www.publimerca.com/?p=1828
+  = imagen reutilizada: herramientas-ia-marketing (id 1845)
+content/ia/herramientas-ia-marketing.md: post actualizada (future) id=1846 https://www.publimerca.com/?p=1846
+  = imagen reutilizada: prompts-para-marketing (id 1847)
+content/ia/prompts-para-marketing.md: post actualizada (future) id=1848 https://www.publimerca.com/?p=1848
+  = imagen reutilizada: agencias-de-medios-mexico-latam (id 1849)
+content/industria/agencias-de-medios.md: post actualizada (future) id=1850 https://www.publimerca.com/?p=1850
+  = imagen reutilizada: agencias-independientes-mexico-latam (id 1851)
+content/industria/agencias-independientes.md: post actualizada (future) id=1852 https://www.publimerca.com/?p=1852
+  = imagen reutilizada: inversion-publicitaria-mexico (id 1829)
+content/industria/inversion-publicitaria-mexico.md: post actualizada (future) id=1830 https://www.publimerca.com/?p=1830
   = imagen reutilizada: por-que-no-aceptamos-dinero-listas (id 1876)
 content/laboratorio/no-aceptamos-dinero.md: post actualizada (publish) id=1813 https://www.publimerca.com/por-que-no-aceptamos-dinero-listas/
+  = imagen reutilizada: buen-fin-2026-estrategia-marcas (id 1877)
+content/marketing-digital/buen-fin-2026-estrategia-marcas.md: post actualizada (publish) id=1815 https://www.publimerca.com/buen-fin-2026-estrategia-marcas/
+  = imagen reutilizada: calendario-black-friday-cyber-monday-buen-fin-latam-2026 (id 1823)
+content/marketing-digital/calendario-black-friday-cyber-monday-latam.md: post actualizada (publish) id=1824 https://www.publimerca.com/calendario-black-friday-cyber-monday-buen-fin-latam-2026/
+  = imagen reutilizada: cpm-cpc-cpa-roas (id 1816)
+content/marketing-digital/cpm-cpc-cpa-roas.md: post actualizada (publish) id=1817 https://www.publimerca.com/cpm-cpc-cpa-roas/
+  = imagen reutilizada: cuanto-cuesta-agencia-marketing-digital-mexico (id 1825)
+content/marketing-digital/cuanto-cuesta-agencia-marketing-digital.md: post actualizada (publish) id=1826 https://www.publimerca.com/cuanto-cuesta-agencia-marketing-digital-mexico/
+  = imagen reutilizada: embudo-de-conversion (id 1853)
+content/marketing-digital/embudo-de-conversion.md: post actualizada (future) id=1854 https://www.publimerca.com/?p=1854
+  = imagen reutilizada: influencer-marketing-mexico (id 1855)
+content/marketing-digital/influencer-marketing-mexico.md: post actualizada (future) id=1856 https://www.publimerca.com/?p=1856
+  = imagen reutilizada: marketing-de-contenidos (id 1857)
+content/marketing-digital/marketing-de-contenidos.md: post actualizada (future) id=1858 https://www.publimerca.com/?p=1858
+  = imagen reutilizada: meta-ads-google-ads-tiktok-ads (id 1831)
+content/marketing-digital/meta-ads-google-ads-tiktok-ads.md: post actualizada (future) id=1832 https://www.publimerca.com/?p=1832
+  = imagen reutilizada: problema-seguimiento-leads (id 1833)
+content/marketing-digital/problema-seguimiento-leads.md: post actualizada (future) id=1834 https://www.publimerca.com/?p=1834
+  = imagen reutilizada: seo-para-pymes-mexico (id 1835)
+content/marketing-digital/seo-pymes-mexico.md: post actualizada (future) id=1836 https://www.publimerca.com/?p=1836
 content/paginas/quienes-somos.md: page actualizada (publish) id=1902 https://www.publimerca.com/quienes-somos/
+  = imagen reutilizada: brief-creativo (id 1837)
+content/publicidad/brief-creativo.md: post actualizada (future) id=1838 https://www.publimerca.com/?p=1838
+  = imagen reutilizada: btl-atl-ttl-diferencias (id 1839)
+content/publicidad/btl-atl-ttl.md: post actualizada (future) id=1840 https://www.publimerca.com/?p=1840
+  = imagen reutilizada: campanas-navidenas-que-venden (id 1859)
+content/publicidad/campanas-navidenas.md: post actualizada (future) id=1860 https://www.publimerca.com/?p=1860
+  = imagen reutilizada: mejores-agencias-marketing-digital-mexico-latam (id 1810)
+content/publicidad/mejores-agencias-marketing-digital-mexico-latam.md: post actualizada (publish) id=1807 https://www.publimerca.com/mejores-agencias-marketing-digital-mexico-latam/
+  = imagen reutilizada: oreo-cows-campana-explicada (id 1841)
+content/publicidad/oreo-cows-explicada.md: post actualizada (future) id=1842 https://www.publimerca.com/?p=1842
+  = imagen reutilizada: peru-creatividad-publicidad-cannes (id 1861)
+content/publicidad/peru-creatividad-latam.md: post actualizada (future) id=1862 https://www.publimerca.com/?p=1862
+  = imagen reutilizada: pitch-de-agencias (id 1863)
+content/publicidad/pitch-de-agencias.md: post actualizada (future) id=1864 https://www.publimerca.com/?p=1864
+  = imagen reutilizada: que-es-un-insight (id 1865)
+content/publicidad/que-es-un-insight.md: post actualizada (future) id=1866 https://www.publimerca.com/?p=1866
