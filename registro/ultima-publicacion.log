@@ -1,8 +1,8 @@
-fecha: 2026-10-08T01:46:54Z
-commit: e545d9e339b1dbaae2991fb266928b40064f243f
+fecha: 2026-10-08T01:50:04Z
+commit: 9c8f3fe867a641090e4d2e067b77394b060dde45
 evento: workflow_dispatch
-resultado: failure
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37714605718
+resultado: success
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37714852976
 ---
 WP_URL: presente
 WP_USER: presente
@@ -10,12 +10,7 @@ WP_APP_PASSWORD: presente
 Argumentos: --all
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
-Servidor: LiteSpeed | via: - | cf-ray: no
-  encabezado X-Powered-By: PHP/8.2.34
-  encabezado X-Robots-Tag: noindex
-  encabezado X-Content-Type-Options: nosniff
-  encabezado Access-Control-Allow-Headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
-  encabezado X-Frame-Options: SAMEORIGIN
-Respuesta con credencial real: 401 incorrect_password
-Respuesta con contraseña falsa: 401 incorrect_password
-DIAGNÓSTICO: el encabezado SÍ llega; la credencial real es la que falla (usuario o contraseña).
+Conectado como aiagent (roles: editor)
+  + categoría creada: laboratorio
+  + etiqueta creada: experimento
+content/pruebas/prueba-conexion.md: post creada (draft) id=1804 https://www.publimerca.com/?p=1804
