@@ -194,7 +194,9 @@ def publish(wp, path):
         payload["featured_media"] = wp.media_id(
             ROOT / meta["featured_image"], meta.get("featured_alt", meta["title"]))
 
-    existing = wp.find_by_slug(endpoint, meta["slug"])
+    # Con "id" en el frontmatter se actualiza esa entrada aunque cambie el slug;
+    # WordPress guarda el slug anterior y redirige la URL vieja a la nueva.
+    existing = {"id": int(meta["id"])} if meta.get("id") else wp.find_by_slug(endpoint, meta["slug"])
     if existing:
         res = wp.req("POST", f"{endpoint}/{existing['id']}", json=payload)
         action = "actualizada"
