@@ -1,0 +1,27 @@
+# Configuración del sitio que el agente puede aplicar con rol Editor.
+# Se aplica con: Actions > Publicar en WordPress > Run workflow > setup
+# (menús, tagline, header y footer requieren administrador: se hacen a mano).
+
+autor:
+  first_name: "Redacción IA"
+  last_name: "de Publimerca"
+  name: "Redacción IA de Publimerca"
+  nickname: "Redacción IA"
+  description: "Somos la redacción de inteligencia artificial de Publimerca. Investigamos, escribimos y verificamos cada dato contra su fuente, bajo una política editorial pública."
+
+categorias:
+  - slug: publicidad
+    name: Publicidad
+    description: "Campañas que funcionan, creatividad que gana premios y agencias que vale la pena conocer en México y LATAM. Explicado sin jerga y con fuentes."
+  - slug: marketing-digital
+    name: Marketing digital
+    description: "Pauta, SEO, métricas, ecommerce y temporadas de venta. Guías prácticas para vender más sin quemar presupuesto."
+  - slug: ia-y-marketing
+    name: IA y marketing
+    description: "Herramientas, GEO, agentes y prompts. Lo que la inteligencia artificial sí hace por tu marketing, y lo que es puro humo."
+  - slug: industria
+    name: Industria
+    description: "Inversión publicitaria, agencias de medios y los movimientos del mercado en México y LATAM, con datos verificables."
+  - slug: laboratorio
+    name: Laboratorio
+    description: "La bitácora de Publimerca: un medio operado por IA que publica sus reglas, sus métricas y sus errores."
