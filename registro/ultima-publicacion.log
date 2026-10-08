@@ -1,36 +1,36 @@
-fecha: 2026-10-08T03:55:11Z
-commit: 801eb41caacea7418f59e9beb5caae204cf51d26
+fecha: 2026-10-08T04:02:57Z
+commit: c11c9bfe43785335883b1c2a06ca4d9ff5708835
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37724909361
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37725559028
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: content/laboratorio/no-aceptamos-dinero.md content/marketing-digital/buen-fin-2026-estrategia-marcas.md content/marketing-digital/cpm-cpc-cpa-roas.md content/paginas/politica-editorial.md content/publicidad/mejores-agencias-marketing-digital-mexico-latam.md 
+Argumentos: content/ia/geo-respuestas-ia.md content/laboratorio/no-aceptamos-dinero.md content/marketing-digital/buen-fin-2026-estrategia-marcas.md content/marketing-digital/calendario-black-friday-cyber-monday-latam.md content/marketing-digital/cuanto-cuesta-agencia-marketing-digital.md 
 /home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py:196: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
-  + etiqueta creada: transparencia
-  + etiqueta creada: rankings
-  + etiqueta creada: Publimerca
-  + imagen subida: por-que-no-aceptamos-dinero-listas.png (id 1812)
-content/laboratorio/no-aceptamos-dinero.md: post creada (future) id=1813 https://www.publimerca.com/?p=1813
-  + etiqueta creada: Buen Fin
-  + etiqueta creada: ecommerce
-  + etiqueta creada: promociones
-  + etiqueta creada: pricing
-  + imagen subida: buen-fin-2026-estrategia-marcas.png (id 1814)
-content/marketing-digital/buen-fin-2026-estrategia-marcas.md: post creada (future) id=1815 https://www.publimerca.com/?p=1815
-  + etiqueta creada: glosario
-  + etiqueta creada: métricas
-  + etiqueta creada: pauta digital
-  + etiqueta creada: Google Ads
-  + etiqueta creada: Meta Ads
-  + imagen subida: cpm-cpc-cpa-roas.png (id 1816)
-content/marketing-digital/cpm-cpc-cpa-roas.md: post creada (future) id=1817 https://www.publimerca.com/?p=1817
-content/paginas/politica-editorial.md: page creada (publish) id=1818 https://www.publimerca.com/politica-editorial/
-  = imagen reutilizada: mejores-agencias-marketing-digital-mexico-latam (id 1810)
-content/publicidad/mejores-agencias-marketing-digital-mexico-latam.md: post actualizada (publish) id=1807 https://www.publimerca.com/2026/10/08/mejores-agencias-marketing-digital-mexico-latam/
+  + categoría creada: ia-y-marketing
+  + etiqueta creada: GEO
+  + etiqueta creada: SEO
+  + etiqueta creada: AI Overviews
+  + etiqueta creada: ChatGPT
+  + etiqueta creada: inteligencia artificial
+  + imagen subida: geo-generative-engine-optimization.png (id 1819)
+content/ia/geo-respuestas-ia.md: post creada (future) id=1820 https://www.publimerca.com/?p=1820
+  = imagen reutilizada: por-que-no-aceptamos-dinero-listas (id 1812)
+content/laboratorio/no-aceptamos-dinero.md: post actualizada (future) id=1813 https://www.publimerca.com/?p=1813
+  = imagen reutilizada: buen-fin-2026-estrategia-marcas (id 1814)
+content/marketing-digital/buen-fin-2026-estrategia-marcas.md: post actualizada (future) id=1815 https://www.publimerca.com/?p=1815
+  + etiqueta creada: Black Friday
+  + etiqueta creada: Cyber Monday
+  + etiqueta creada: calendario comercial
+  + imagen subida: calendario-black-friday-cyber-monday-buen-fin-latam-2026.png (id 1823)
+content/marketing-digital/calendario-black-friday-cyber-monday-latam.md: post creada (future) id=1824 https://www.publimerca.com/?p=1824
+  + etiqueta creada: precios
+  + etiqueta creada: pymes
+  + imagen subida: cuanto-cuesta-agencia-marketing-digital-mexico.png (id 1825)
+content/marketing-digital/cuanto-cuesta-agencia-marketing-digital.md: post creada (future) id=1826 https://www.publimerca.com/?p=1826
