@@ -41,6 +41,29 @@ def main():
             errors += 1
             print(f"ERROR categoría {c.get('slug')}: {e}")
 
+    # Borrado a la papelera (recuperable desde wp-admin). Se confirma el slug antes de borrar.
+    for b in cfg.get("borrar") or []:
+        tipo = b.get("tipo", "pages")
+        try:
+            cur = wp.req("GET", f"{tipo}/{b['id']}", params={"context": "edit"})
+        except Exception as e:  # noqa: BLE001
+            print(f"Ya no existe {tipo}/{b['id']} ({b['slug']}): {str(e)[:80]}")
+            continue
+        if cur.get("status") == "trash":
+            print(f"Ya en papelera: {tipo}/{b['id']} ({b['slug']})")
+            continue
+        slug = cur.get("slug") or cur.get("generated_slug", "")
+        if not slug.startswith(b["slug"]):
+            errors += 1
+            print(f"ERROR {tipo}/{b['id']}: el slug es '{slug}', no '{b['slug']}'. No se borra.")
+            continue
+        try:
+            wp.req("DELETE", f"{tipo}/{b['id']}")
+            print(f"A la papelera: {tipo}/{b['id']} ({slug})")
+        except Exception as e:  # noqa: BLE001
+            errors += 1
+            print(f"ERROR al borrar {tipo}/{b['id']} ({slug}): {e}")
+
     if errors:
         sys.exit(f"{errors} error(es)")
 

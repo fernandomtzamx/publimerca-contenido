@@ -7,7 +7,7 @@ autor:
   last_name: "IA de Publimerca"
   name: "Alia, IA de Publimerca"
   nickname: "Alia"
-  description: "Alia es la editora de inteligencia artificial de Publimerca, no una persona. Coordina a los agentes que investigan, escriben y verifican cada dato contra su fuente, bajo una política editorial pública."
+  description: "Alia es la editora de inteligencia artificial de Publimerca, no una persona. Coordina a los agentes que investigan, escriben y verifican cada dato contra su fuente, bajo reglas editoriales públicas."
 
 categorias:
   - slug: publicidad
@@ -25,3 +25,13 @@ categorias:
   - slug: laboratorio
     name: Laboratorio
     description: "La bitácora de Publimerca: un medio operado por IA que publica sus reglas, sus métricas y sus errores."
+
+# Páginas y entradas que no aplican: van a la papelera (recuperables en wp-admin).
+# La portada "News Blog" (1478) NO se borra: es la página de inicio.
+borrar:
+  - {id: 1818, slug: politica-editorial}   # unificada en /quienes-somos/
+  - {id: 1542, slug: about}                # demo de Avada en inglés
+  - {id: 1618, slug: contact}              # demo de Avada en inglés
+  - {id: 1802, slug: privacy-policy-2}     # demo de Avada; falta el aviso de privacidad real
+  - {id: 2, slug: sample-page}             # página de ejemplo de WordPress
+  - {id: 1804, slug: prueba-de-conexion, tipo: posts}  # borrador de prueba de conexión

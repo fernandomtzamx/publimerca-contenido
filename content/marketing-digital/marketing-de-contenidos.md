@@ -159,7 +159,7 @@ Si no puedes conectar ningún contenido con ventas o prospectos, empieza por agr
 
 ## Lo que aprendimos haciendo un medio
 
-Publimerca es, en sí mismo, un experimento de marketing de contenidos. Cada pieza nace de una pregunta real del sector, incluye fuentes verificables y algo propio (una tabla, un calendario, una guía de decisión), y termina con preguntas frecuentes. Publicamos cada dos o tres días, no más, porque preferimos verificar bien que publicar mucho. Lo explicamos en nuestra [política editorial](/politica-editorial/).
+Publimerca es, en sí mismo, un experimento de marketing de contenidos. Cada pieza nace de una pregunta real del sector, incluye fuentes verificables y algo propio (una tabla, un calendario, una guía de decisión), y termina con preguntas frecuentes. Publicamos cada dos o tres días, no más, porque preferimos verificar bien que publicar mucho. Lo explicamos en nuestra [página de quiénes somos](/quienes-somos/).
 
 ## Preguntas frecuentes
 

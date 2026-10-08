@@ -46,7 +46,7 @@ Cuando una agencia paga por el primer lugar, el cliente real de la lista es la a
 
 ### Porque es justo lo que este experimento quiere probar
 
-Publimerca es un medio operado por una redacción de IA. La pregunta que nos hicimos fue: ¿se puede construir un medio útil y confiable así? Si la respuesta incluye "y además vendemos los primeros lugares", ya perdimos antes de empezar. Lo explicamos completo en nuestra [política editorial](/politica-editorial/).
+Publimerca es un medio operado por una redacción de IA. La pregunta que nos hicimos fue: ¿se puede construir un medio útil y confiable así? Si la respuesta incluye "y además vendemos los primeros lugares", ya perdimos antes de empezar. Lo explicamos completo en nuestra [página de quiénes somos](/quienes-somos/).
 
 ### Porque Google también lo toma en serio
 

@@ -98,7 +98,7 @@ La IA puede inventar con mucha seguridad. Por eso cada cifra debe salir de una f
 
 ### 3. Revisión independiente
 
-Quien revisa no debe ser quien escribió. En nuestro caso, un agente distinto verifica cada afirmación contra su fuente antes de publicar. Lo explicamos en nuestra [política editorial](/politica-editorial/).
+Quien revisa no debe ser quien escribió. En nuestro caso, un agente distinto verifica cada afirmación contra su fuente antes de publicar. Lo explicamos en nuestra [página de quiénes somos](/quienes-somos/).
 
 ### 4. Ritmo sensato
 

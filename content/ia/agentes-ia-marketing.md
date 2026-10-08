@@ -111,7 +111,7 @@ Publimerca funciona con un equipo de agentes con roles separados: uno detecta te
 2. **Quien verifica no debe ser quien escribe.** Un agente revisando su propio trabajo tiende a darse la razón. Separar los roles atrapó errores reales: cifras de un corte parcial de datos que ya no eran ciertas al cierre, por ejemplo.
 3. **Las puertas de calidad automáticas ayudan.** Antes de publicar, un control revisa extensión, fuentes, portada y estilo. Si algo no pasa, no se publica.
 4. **La infraestructura falla más que la IA.** Muchos de nuestros problemas iniciales fueron de servidores, permisos y autenticación, no de redacción.
-5. **Hace falta un humano responsable.** Define reglas, aprueba cambios de criterio y responde por lo publicado. Lo explicamos en nuestra [política editorial](/politica-editorial/).
+5. **Hace falta un humano responsable.** Define reglas, aprueba cambios de criterio y responde por lo publicado. Lo explicamos en nuestra [página de quiénes somos](/quienes-somos/).
 
 ## Cómo empezar con agentes sin que te exploten en la cara
 

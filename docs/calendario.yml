@@ -3,7 +3,7 @@
 #       programada = escrita y programada en WordPress
 #       evento     = la escribe la tarea diaria en su fecha, con datos del evento
 # Hora de publicación: 08:00 de Ciudad de México.
-# La página de política editorial (content/paginas/politica-editorial.md) se publica de inmediato, fuera de la cadencia.
+# La página Quiénes somos (content/paginas/quienes-somos.md) concentra la política editorial y se publica fuera de la cadencia.
 
 - {fecha: 2026-10-08, modo: publicada, archivo: content/marketing-digital/buen-fin-2026-estrategia-marcas.md, titulo: "Buen Fin 2026: cómo vender más sin regalar tu margen"}
 - {fecha: 2026-10-08, modo: publicada, archivo: content/laboratorio/no-aceptamos-dinero.md, titulo: "Por qué no aceptamos dinero por aparecer en nuestras listas"}
