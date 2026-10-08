@@ -1,24 +1,16 @@
-fecha: 2026-10-08T01:26:52Z
-commit: 5ab47bfcfe4935450cbc46bca4d1e3c8aa77e4b2
-evento: workflow_dispatch
+fecha: 2026-10-08T01:28:03Z
+commit: 6664579190e6993ca96389a70b429434f19f4156
+evento: push
 resultado: failure
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37712952412
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37713053737
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: --all
+Argumentos: --check
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
-Traceback (most recent call last):
-  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 179, in <module>
-    main()
-  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 156, in main
-    me = wp.whoami()
-         ^^^^^^^^^^^
-  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 74, in whoami
-    return self.req("GET", "users/me", params={"context": "edit"})
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 70, in req
-    raise RuntimeError(f"{method} {path} -> {r.status_code}: {r.text[:300]}")
-RuntimeError: GET users/me -> 401: {"code":"rest_not_logged_in","message":"No est\u00e1s conectado.","data":{"status":401}}
+Servidor: LiteSpeed | via: - | cf-ray: no
+Respuesta con credencial real: 401 rest_not_logged_in
+Respuesta con contraseña falsa: 401 rest_not_logged_in
+DIAGNÓSTICO: el encabezado Authorization NO llega a WordPress (lo borra el servidor o un plugin).
