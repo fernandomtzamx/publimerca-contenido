@@ -71,7 +71,19 @@ class WP:
         return r.json()
 
     def whoami(self):
-        return self.req("GET", "users/me", params={"context": "edit"})
+        r = self.s.get(f"{self.api}/users/me", params={"context": "edit"}, timeout=30)
+        if r.status_code == 200:
+            return r.json()
+        print(f"Servidor: {r.headers.get('server', '?')} | via: {r.headers.get('via', '-')} "
+              f"| cf-ray: {'sí' if 'cf-ray' in r.headers else 'no'}")
+        print(f"Respuesta con credencial real: {r.status_code} {r.json().get('code') if r.headers.get('content-type','').startswith('application/json') else r.text[:120]}")
+        bogus = requests.get(f"{self.api}/users/me", auth=(self.s.auth[0], "xxxx xxxx xxxx xxxx xxxx xxxx"),
+                             headers=self.s.headers, timeout=30)
+        code = bogus.json().get("code") if bogus.headers.get("content-type", "").startswith("application/json") else bogus.text[:120]
+        print(f"Respuesta con contraseña falsa: {bogus.status_code} {code}")
+        if code == "rest_not_logged_in":
+            sys.exit("DIAGNÓSTICO: el encabezado Authorization NO llega a WordPress (lo borra el servidor o un plugin).")
+        sys.exit("DIAGNÓSTICO: el encabezado SÍ llega; la credencial real es la que falla (usuario o contraseña).")
 
     def find_by_slug(self, endpoint, slug):
         res = self.req("GET", endpoint, params={"slug": slug, "status": "any", "context": "edit"})
