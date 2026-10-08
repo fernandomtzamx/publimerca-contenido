@@ -1,11 +1,22 @@
-fecha: 2026-10-08T01:13:08Z
-commit: e80061d03842ae44812146712c5deff2c24acee6
-evento: push
+fecha: 2026-10-08T01:15:37Z
+commit: 40d201ef582c4e263a6fa4487c30e06a04a5aaa9
+evento: workflow_dispatch
 resultado: failure
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37711782640
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37711998718
 ---
-WP_URL: FALTA
-WP_USER: FALTA
-WP_APP_PASSWORD: FALTA
-Argumentos: --check
-Falta la variable de entorno WP_URL
+WP_URL: presente
+WP_USER: presente
+WP_APP_PASSWORD: presente
+Argumentos: --all
+Traceback (most recent call last):
+  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 166, in <module>
+    main()
+  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 143, in main
+    me = wp.whoami()
+         ^^^^^^^^^^^
+  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 61, in whoami
+    return self.req("GET", "users/me", params={"context": "edit"})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 57, in req
+    raise RuntimeError(f"{method} {path} -> {r.status_code}: {r.text[:300]}")
+RuntimeError: GET users/me -> 401: {"code":"rest_not_logged_in","message":"No est\u00e1s conectado.","data":{"status":401}}
