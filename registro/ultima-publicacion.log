@@ -1,13 +1,17 @@
-fecha: 2026-10-08T15:51:12Z
-commit: e71b10dd62232dc6d8236f7590c295df93ee17f3
-evento: push
+fecha: 2026-10-08T15:52:42Z
+commit: 415d3159bf9ed5f774f7f7e46d163bd08da6116f
+evento: workflow_dispatch
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37804107504
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37804286243
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: --check
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
-Conectado como aiagent (roles: editor)
+Autor actualizado: Redacción IA de Publimerca
+Categoría actualizada: publicidad -> Publicidad
+Categoría actualizada: marketing-digital -> Marketing digital
+Categoría actualizada: ia-y-marketing -> IA y marketing
+Categoría actualizada: industria -> Industria
+Categoría actualizada: laboratorio -> Laboratorio
