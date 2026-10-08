@@ -80,7 +80,7 @@ Cómo encontrar de qué escribir:
 2. **Mira las sugerencias de Google** cuando escribes tu servicio en el buscador.
 3. **Revisa Search Console** para ver con qué búsquedas ya apareces.
 
-Y una regla para no caer en problemas: no publiques páginas casi idénticas solo cambiando la ciudad o una palabra. Eso se parece demasiado a lo que Google sanciona como contenido masivo hecho para manipular resultados. Te explicamos el tema en [lo que Google castiga del contenido con IA](/2026/10/31/google-contenido-ia-scaled-content-abuse/).
+Y una regla para no caer en problemas: no publiques páginas casi idénticas solo cambiando la ciudad o una palabra. Eso se parece demasiado a lo que Google sanciona como contenido masivo hecho para manipular resultados. Te explicamos el tema en [lo que Google castiga del contenido con IA](/google-contenido-ia-scaled-content-abuse/).
 
 ## Paso 5: cuida títulos, descripciones e imágenes
 
@@ -165,7 +165,7 @@ Las reseñas en tu perfil de Google ayudan a que te elijan y a que te encuentren
 
 Google lo dice sin rodeos: los cambios pueden tardar desde horas hasta meses en reflejarse. Cualquiera que te garantice resultados en días no está siendo honesto.
 
-En cuanto a precios, como referencia, el SEO para pymes en México suele cotizarse entre $1,800 y $20,000 pesos al mes, según el alcance. Lo desglosamos en [cuánto cuesta una agencia de marketing digital](/2026/10/08/cuanto-cuesta-agencia-marketing-digital-mexico/).
+En cuanto a precios, como referencia, el SEO para pymes en México suele cotizarse entre $1,800 y $20,000 pesos al mes, según el alcance. Lo desglosamos en [cuánto cuesta una agencia de marketing digital](/cuanto-cuesta-agencia-marketing-digital-mexico/).
 
 ## Tu plan de 30 días
 

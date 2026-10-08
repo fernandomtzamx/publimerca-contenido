@@ -97,7 +97,7 @@ Campaña de origen, páginas visitadas, preguntas del formulario. Ventas debe ll
 
 ### 7. Cierra el círculo de la medición
 
-Conecta tus campañas con las ventas reales. El indicador importante no es el costo por lead, sino el **costo por cliente**. Si no conoces las siglas, aquí explicamos [CPA y compañía](/2026/10/08/cpm-cpc-cpa-roas/).
+Conecta tus campañas con las ventas reales. El indicador importante no es el costo por lead, sino el **costo por cliente**. Si no conoces las siglas, aquí explicamos [CPA y compañía](/cpm-cpc-cpa-roas/).
 
 ## Una secuencia de seguimiento que puedes copiar
 

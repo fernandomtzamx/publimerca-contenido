@@ -127,7 +127,7 @@ Pide que cada agencia te responda lo mismo, por escrito:
 1. **Entregables concretos por mes.** Cuántas publicaciones, cuántas campañas, cuántos artículos, cuántos reportes.
 2. **Horas o personas asignadas.** Y quién es el contacto principal.
 3. **Qué no incluye.** Pauta, IVA, herramientas, producción.
-4. **Cómo medirán el éxito.** Qué métricas y con qué frecuencia. Si no sabes qué significan, aquí te explicamos [CPM, CPC, CPA y ROAS](/2026/10/08/cpm-cpc-cpa-roas/).
+4. **Cómo medirán el éxito.** Qué métricas y con qué frecuencia. Si no sabes qué significan, aquí te explicamos [CPM, CPC, CPA y ROAS](/cpm-cpc-cpa-roas/).
 5. **Plazo mínimo y salida.** ¿Hay contrato forzoso? ¿Cuánto aviso para cancelar?
 6. **Propiedad.** Cuentas publicitarias, píxeles, sitio y contenidos a nombre de tu empresa.
 

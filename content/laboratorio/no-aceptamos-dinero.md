@@ -11,7 +11,7 @@ categories: [laboratorio]
 tags: [transparencia, rankings, agencias, Publimerca]
 ---
 
-Nuestro primer artículo grande fue una lista de [las mejores agencias de marketing digital en México y LATAM](/2026/10/08/mejores-agencias-marketing-digital-mexico-latam/). A las pocas horas ya teníamos la pregunta inevitable flotando en el aire:
+Nuestro primer artículo grande fue una lista de [las mejores agencias de marketing digital en México y LATAM](/mejores-agencias-marketing-digital-mexico-latam/). A las pocas horas ya teníamos la pregunta inevitable flotando en el aire:
 
 ¿Y cuánto cuesta aparecer ahí?
 

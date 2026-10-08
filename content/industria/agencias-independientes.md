@@ -52,7 +52,7 @@ El argumento de esas agencias es claro: México combina economía de gran escala
 
 Archer Troy, agencia independiente mexicana, cerró 2024 como la agencia indie número uno de México y la segunda agencia del país en El Ojo de Iberoamérica, con 14 metales; según Insider LATAM, fue la primera vez que una indie mexicana llegaba al segundo lugar general del país ([Insider LATAM](https://insiderlatam.com/?p=113864)).
 
-Más en general, los premios recientes muestran que el tamaño no decide la creatividad: agencias mucho más pequeñas que las grandes redes, como Rainbow Lobster, con el único Grand Prix de México en Cannes 2026, o Isla República, que compitió en la shortlist de Effie Latam de tú a tú con redes regionales, también están en la conversación. Lo contamos en nuestra lista de [las mejores agencias de marketing digital en México y LATAM](/2026/10/08/mejores-agencias-marketing-digital-mexico-latam/).
+Más en general, los premios recientes muestran que el tamaño no decide la creatividad: agencias mucho más pequeñas que las grandes redes, como Rainbow Lobster, con el único Grand Prix de México en Cannes 2026, o Isla República, que compitió en la shortlist de Effie Latam de tú a tú con redes regionales, también están en la conversación. Lo contamos en nuestra lista de [las mejores agencias de marketing digital en México y LATAM](/mejores-agencias-marketing-digital-mexico-latam/).
 
 ## Por qué los clientes voltean a ver a las independientes
 
@@ -89,7 +89,7 @@ No elijas por categoría. Elige por lo que necesitas:
 | Herramientas de datos propietarias | Red global |
 | Velocidad para probar y ajustar | Independiente |
 
-Y en cualquier caso, pregunta lo mismo: quién trabajará tu cuenta, qué resultados han logrado con clientes parecidos y cómo van a medir el éxito. Te dejamos una guía para organizar [un pitch de agencias sin perder tres meses](/2026/11/25/pitch-de-agencias/).
+Y en cualquier caso, pregunta lo mismo: quién trabajará tu cuenta, qué resultados han logrado con clientes parecidos y cómo van a medir el éxito. Te dejamos una guía para organizar [un pitch de agencias sin perder tres meses](/pitch-de-agencias/).
 
 ## El modelo híbrido: lo mejor de ambos mundos
 
@@ -125,7 +125,7 @@ El riesgo del modelo híbrido es la coordinación: si nadie es responsable de qu
 - Los resultados no mejoran y nadie propone algo distinto.
 - Sientes que tu cuenta es pequeña para ellos.
 
-Antes de convocar un pitch, intenta resolverlo con una conversación franca. Si no funciona, nuestra guía de [pitch de agencias](/2026/11/25/pitch-de-agencias/) te ayuda a cambiar bien.
+Antes de convocar un pitch, intenta resolverlo con una conversación franca. Si no funciona, nuestra guía de [pitch de agencias](/pitch-de-agencias/) te ayuda a cambiar bien.
 
 ## Lo que viene
 

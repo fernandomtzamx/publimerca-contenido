@@ -79,7 +79,7 @@ Si quieres sacarles más provecho, en unos días publicamos una guía de prompts
 
 **Para qué sirven:** decidir a quién mostrar el anuncio, cuánto pujar y qué combinación de creatividades funciona mejor.
 
-**Dónde fallan:** son cajas negras. Optimizan exactamente lo que les pides, así que si les pides clics baratos, te dan clics baratos aunque no vendan. Configura bien las conversiones y revisa contra tus ventas reales. Aquí explicamos [qué medir en tu pauta](/2026/10/08/cpm-cpc-cpa-roas/).
+**Dónde fallan:** son cajas negras. Optimizan exactamente lo que les pides, así que si les pides clics baratos, te dan clics baratos aunque no vendan. Configura bien las conversiones y revisa contra tus ventas reales. Aquí explicamos [qué medir en tu pauta](/cpm-cpc-cpa-roas/).
 
 ### SEO y contenido
 
@@ -87,7 +87,7 @@ Si quieres sacarles más provecho, en unos días publicamos una guía de prompts
 
 **Para qué sirven:** agrupar búsquedas por intención, detectar huecos de contenido, proponer estructuras, revisar problemas técnicos.
 
-**Dónde fallan:** producir artículos en masa sin valor propio es la forma más rápida de meterte en problemas con Google. Lo explicamos en [lo que Google castiga del contenido con IA](/2026/10/31/google-contenido-ia-scaled-content-abuse/).
+**Dónde fallan:** producir artículos en masa sin valor propio es la forma más rápida de meterte en problemas con Google. Lo explicamos en [lo que Google castiga del contenido con IA](/google-contenido-ia-scaled-content-abuse/).
 
 ### Análisis y reportes
 

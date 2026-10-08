@@ -56,11 +56,11 @@ Fíjate cómo cambia lo que podrías hacer con cada uno. Con el dato, haces un a
 
 ### "SOS POS", BCP y Circus Grey (Perú)
 
-La tensión: cuando te roban el celular, pierdes justo la herramienta que necesitas para proteger tu dinero. De ese problema humano salió la idea de convertir las terminales de pago en puntos de bloqueo de cuentas, que ganó el Grand Prix de Creative Data en Cannes 2026 ([LBB](https://lbbonline.com/news/circus-grey-cannes-lions-grand-prix-2026-coyote)). Lo contamos en [por qué Perú se volvió una potencia creativa](/2026/11/20/peru-creatividad-publicidad-cannes/).
+La tensión: cuando te roban el celular, pierdes justo la herramienta que necesitas para proteger tu dinero. De ese problema humano salió la idea de convertir las terminales de pago en puntos de bloqueo de cuentas, que ganó el Grand Prix de Creative Data en Cannes 2026 ([LBB](https://lbbonline.com/news/circus-grey-cannes-lions-grand-prix-2026-coyote)). Lo contamos en [por qué Perú se volvió una potencia creativa](/peru-creatividad-publicidad-cannes/).
 
 ### "Oreo Cows", Oreo y VML
 
-Aquí el punto de partida fue un ritual: mojar la galleta en leche. La campaña se construyó alrededor de ese momento de consumo ([LBB](https://lbbonline.com/news/oreo-cow-titanium-cannes-lions-vml)). Te la explicamos en [Oreo Cows explicada](/2026/11/03/oreo-cows-campana-explicada/).
+Aquí el punto de partida fue un ritual: mojar la galleta en leche. La campaña se construyó alrededor de ese momento de consumo ([LBB](https://lbbonline.com/news/oreo-cow-titanium-cannes-lions-vml)). Te la explicamos en [Oreo Cows explicada](/oreo-cows-campana-explicada/).
 
 ### Los mil sponsors del Deportivo Municipal (Perú)
 
@@ -106,7 +106,7 @@ porque cocinar para mi familia me hace sentir que los cuido,
 pero llego tan cansada que termino pidiendo lo mismo de siempre.
 ```
 
-La tensión está en el "pero". Ahí es donde una marca puede entrar con una solución creíble. Una vez que lo tienes, va directo a la sección de insight de tu [brief creativo](/2026/10/26/brief-creativo/).
+La tensión está en el "pero". Ahí es donde una marca puede entrar con una solución creíble. Una vez que lo tienes, va directo a la sección de insight de tu [brief creativo](/brief-creativo/).
 
 ## Los falsos insights más comunes
 

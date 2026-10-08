@@ -135,7 +135,7 @@ Si la mayor parte del dinero digital va a video, es porque ahí está la atenci�
 
 ### 2. La búsqueda sigue siendo intención pura
 
-Aunque se lleve menos que el video, la búsqueda captura a quien ya quiere comprar. Para muchas pymes es el canal más rentable para empezar. Lo comparamos en [Meta Ads vs. Google Ads vs. TikTok Ads](/2026/10/29/meta-ads-google-ads-tiktok-ads/).
+Aunque se lleve menos que el video, la búsqueda captura a quien ya quiere comprar. Para muchas pymes es el canal más rentable para empezar. Lo comparamos en [Meta Ads vs. Google Ads vs. TikTok Ads](/meta-ads-google-ads-tiktok-ads/).
 
 ### 3. "Tradicional contra digital" es una falsa pelea
 

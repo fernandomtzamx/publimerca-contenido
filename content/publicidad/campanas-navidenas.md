@@ -60,7 +60,7 @@ En México, la campaña navideña 2025 de Coca-Cola, "Toma una Coca-Cola. Vive e
 
 La campaña fue desarrollada por WPP Open X con liderazgo de VML y apoyo de EssenceMediacom y Ogilvy. A nivel global, la marca también reinterpretó sus clásicos camiones con IA por segundo año ([Mercado Negro](https://www.mercadonegro.pe/publicidad/coca-cola-renueva-su-campana-navidena-2025-con-el-regreso-de-los-clasicos-camiones-en-version-ia/)).
 
-Fíjate en el chatbot: no es un truco tecnológico para la prensa. Resuelve una pregunta práctica (¿cuándo pasa la caravana por mi ciudad?) en el canal que más usan los mexicanos. Eso es pensamiento [TTL](/2026/11/15/btl-atl-ttl-diferencias/) en estado puro.
+Fíjate en el chatbot: no es un truco tecnológico para la prensa. Resuelve una pregunta práctica (¿cuándo pasa la caravana por mi ciudad?) en el canal que más usan los mexicanos. Eso es pensamiento [TTL](/btl-atl-ttl-diferencias/) en estado puro.
 
 Un clásico local que vale recordar: "Hermanos", de Ogilvy México para Aeroméxico y Coca-Cola en 2018, jugó con la idea de que cualquiera puede ser Santa en esta época del año, con emoción y humor ([Merca2.0](https://www.merca20.com/hermanos-la-campana-navidena-que-ogilvy-hizo-para-aeromexico-y-coca-cola)).
 
@@ -68,7 +68,7 @@ Un clásico local que vale recordar: "Hermanos", de Ogilvy México para Aeroméx
 
 ### 1. Encuentra la tensión de la temporada
 
-La Navidad no es solo felicidad. Es cansancio, presupuesto apretado, familias complicadas, prisa, nostalgia, soledad. Las campañas más poderosas reconocen alguna de esas tensiones. La madre agotada del comercial de Coca-Cola es un ejemplo. Si necesitas ayuda para encontrarla, revisa [qué es un insight](/2026/11/28/que-es-un-insight/).
+La Navidad no es solo felicidad. Es cansancio, presupuesto apretado, familias complicadas, prisa, nostalgia, soledad. Las campañas más poderosas reconocen alguna de esas tensiones. La madre agotada del comercial de Coca-Cola es un ejemplo. Si necesitas ayuda para encontrarla, revisa [qué es un insight](/que-es-un-insight/).
 
 ### 2. Haz que el producto sea parte de la historia
 
@@ -84,7 +84,7 @@ En diciembre la gente tiene problemas muy concretos: qué regalar, cómo llegar 
 
 ### 5. Planea con tiempo
 
-Si la campaña navideña se piensa en noviembre, ya es tarde. Las marcas que mejor resuelven diciembre empiezan a planearlo meses antes, junto con el [calendario comercial de fin de año](/2026/10/08/calendario-black-friday-cyber-monday-buen-fin-latam-2026/).
+Si la campaña navideña se piensa en noviembre, ya es tarde. Las marcas que mejor resuelven diciembre empiezan a planearlo meses antes, junto con el [calendario comercial de fin de año](/calendario-black-friday-cyber-monday-buen-fin-latam-2026/).
 
 ## El calendario de una campaña navideña
 

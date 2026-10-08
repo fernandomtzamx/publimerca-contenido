@@ -62,7 +62,7 @@ Publicar no es lo mismo que distribuir. Un artículo sin correo, sin redes, sin 
 
 La tentación actual es resolver todo con IA: más artículos, más rápido. Los datos piden calma. En la investigación B2B del Content Marketing Institute, con más de mil profesionales, alrededor de 9 de cada 10 ya usan IA para producir contenido, pero menos de 4 de cada 10 dicen que mejoró su rendimiento, y la productividad sube más rápido que la creatividad y la calidad ([Content Marketing Institute](https://contentmarketinginstitute.com/press-room/new-b2b-research-finds-winning-marketing-teams-are-building-fundamentals-not-just-playing-with-prompts)).
 
-El mismo estudio encontró que los equipos con mejores resultados priorizan los fundamentos del marketing y luego usan la IA para amplificar. Además, producir contenido masivo sin valor propio puede meterte en problemas con Google, como explicamos en [lo que Google castiga del contenido con IA](/2026/10/31/google-contenido-ia-scaled-content-abuse/).
+El mismo estudio encontró que los equipos con mejores resultados priorizan los fundamentos del marketing y luego usan la IA para amplificar. Además, producir contenido masivo sin valor propio puede meterte en problemas con Google, como explicamos en [lo que Google castiga del contenido con IA](/google-contenido-ia-scaled-content-abuse/).
 
 ## El método: de preguntas a ventas
 
@@ -86,7 +86,7 @@ Las mejores ideas de contenido ya existen en tu empresa:
 | Decisión | "¿Por qué ustedes?" | ¿Cuánto cuesta y cuánto tarda implementarlo? | Página de precios, casos |
 | Uso | "¿Cómo le saco provecho?" | Cómo preparar la declaración con el sistema | Tutorial |
 
-Así cubres el camino completo, que como explicamos en [embudo de conversión](/2026/11/30/embudo-de-conversion/), casi nunca es una línea recta.
+Así cubres el camino completo, que como explicamos en [embudo de conversión](/embudo-de-conversion/), casi nunca es una línea recta.
 
 ### Paso 3: aporta algo que no exista
 

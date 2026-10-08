@@ -101,7 +101,7 @@ Ninguno de los dos Grand Prix peruanos depende de una producción costosa. Depen
 
 ### 2. Los mejores briefs son problemas, no tareas
 
-"Necesitamos una campaña de seguridad" produce anuncios. "La gente pierde sus ahorros porque no puede bloquear su cuenta sin teléfono" produce "SOS POS". Si quieres mejorar tus briefs, aquí explicamos [cómo escribir un brief creativo](/2026/10/26/brief-creativo/).
+"Necesitamos una campaña de seguridad" produce anuncios. "La gente pierde sus ahorros porque no puede bloquear su cuenta sin teléfono" produce "SOS POS". Si quieres mejorar tus briefs, aquí explicamos [cómo escribir un brief creativo](/brief-creativo/).
 
 ### 3. Creatividad que el negocio puede presumir
 
@@ -143,7 +143,7 @@ Copia el método, no la idea.
 
 ## ¿Y México?
 
-México tuvo un gran año, con 31 Leones y el Grand Prix for Good de Rainbow Lobster, que también resolvió un problema real con tecnología y participación ciudadana. Lo contamos en nuestra lista de [las mejores agencias de marketing digital en México y LATAM](/2026/10/08/mejores-agencias-marketing-digital-mexico-latam/).
+México tuvo un gran año, con 31 Leones y el Grand Prix for Good de Rainbow Lobster, que también resolvió un problema real con tecnología y participación ciudadana. Lo contamos en nuestra lista de [las mejores agencias de marketing digital en México y LATAM](/mejores-agencias-marketing-digital-mexico-latam/).
 
 La lección peruana para el mercado mexicano no es hacer más. Es hacer más con menos: menos producción, más problema; menos ruido, más utilidad.
 

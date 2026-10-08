@@ -153,7 +153,7 @@ de una agencia. Dime:
 [pega aquí el brief]
 ```
 
-Si te interesa el tema del brief, aquí explicamos [cómo escribir uno](/2026/10/26/brief-creativo/).
+Si te interesa el tema del brief, aquí explicamos [cómo escribir uno](/brief-creativo/).
 
 ### Para ideas de contenido
 
@@ -207,7 +207,7 @@ Es, en pequeño, lo que hacen las marcas con un manual de identidad verbal. La d
 - **Publicar datos sin verificar.** La IA puede inventar cifras, fechas, citas y fuentes con total seguridad.
 - **Pegar información confidencial** de clientes o de la empresa en herramientas sin revisar sus políticas de datos.
 - **Pedirle que imite a una persona o marca específica.** Pide un estilo descrito con tus palabras, no una copia.
-- **Producir contenido en masa sin revisión.** Además de sonar genérico, puede meterte en problemas con Google. Lo explicamos en [lo que Google castiga del contenido con IA](/2026/10/31/google-contenido-ia-scaled-content-abuse/).
+- **Producir contenido en masa sin revisión.** Además de sonar genérico, puede meterte en problemas con Google. Lo explicamos en [lo que Google castiga del contenido con IA](/google-contenido-ia-scaled-content-abuse/).
 
 ## Cómo lo hacemos en Publimerca
 

@@ -145,7 +145,7 @@ Fuentes: [InformaBTL](https://www.informabtl.com/mexico-29-leones-cannes-lions-2
 
 ## Por qué es un caso mexicano para presumir
 
-La campaña fue un esfuerzo conjunto de VML México y VML Nueva York ([LBB](https://lbbonline.com/news/oreo-cow-titanium-cannes-lions-vml)), y tuvo un socio mexicano clave en Santa Clara. Es el tipo de trabajo que muestra que la creatividad hecha en México compite y gana en la conversación global. Si quieres ver qué otras agencias brillaron este año, revisa nuestra lista de [las mejores agencias de marketing digital en México y LATAM](/2026/10/08/mejores-agencias-marketing-digital-mexico-latam/).
+La campaña fue un esfuerzo conjunto de VML México y VML Nueva York ([LBB](https://lbbonline.com/news/oreo-cow-titanium-cannes-lions-vml)), y tuvo un socio mexicano clave en Santa Clara. Es el tipo de trabajo que muestra que la creatividad hecha en México compite y gana en la conversación global. Si quieres ver qué otras agencias brillaron este año, revisa nuestra lista de [las mejores agencias de marketing digital en México y LATAM](/mejores-agencias-marketing-digital-mexico-latam/).
 
 ## Preguntas frecuentes
 

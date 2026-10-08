@@ -118,7 +118,7 @@ El error clásico es reportar fotos del evento y número de "impactos" sin conec
 - **Quieres mover ventas en un periodo corto:** BTL en punto de venta más digital segmentado.
 - **Tienes una campaña importante del año:** TTL. Una idea que viva en todos los canales.
 
-Un buen ejemplo de pensamiento integrado es la campaña "Oreo Cows", que combinó contenido, producto coleccionable, alianza comercial y experiencia de marca. Te la explicamos en [Oreo Cows explicada](/2026/11/03/oreo-cows-campana-explicada/).
+Un buen ejemplo de pensamiento integrado es la campaña "Oreo Cows", que combinó contenido, producto coleccionable, alianza comercial y experiencia de marca. Te la explicamos en [Oreo Cows explicada](/oreo-cows-campana-explicada/).
 
 ## Preguntas frecuentes
 

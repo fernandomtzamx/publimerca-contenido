@@ -32,7 +32,7 @@ No tiene que ser así. Un pitch bien hecho es corto, justo y te deja con el soci
 
 El pitch es la cirugía mayor de la relación cliente agencia. Antes de operar, descarta otras causas:
 
-- **¿El problema es la agencia o el brief?** Si nunca le has dado un brief claro, cambiar de agencia no lo arregla. Revisa [cómo escribir un brief creativo](/2026/10/26/brief-creativo/).
+- **¿El problema es la agencia o el brief?** Si nunca le has dado un brief claro, cambiar de agencia no lo arregla. Revisa [cómo escribir un brief creativo](/brief-creativo/).
 - **¿Es la agencia o es el equipo asignado?** A veces basta con pedir cambios en el equipo.
 - **¿Hubo evaluaciones formales?** Si nunca le dijiste a la agencia qué estaba fallando, no ha tenido oportunidad de corregirlo.
 - **¿Cambió tu negocio?** Un nuevo mercado, un nuevo modelo de venta o una necesidad de capacidades distintas sí justifican buscar otro socio.
@@ -64,7 +64,7 @@ Antes de llamar a nadie, escribe:
 
 ### Fase 2: lista larga y lista corta (1 a 2 semanas)
 
-Arma una lista de seis a ocho agencias con base en su trabajo, sus clientes, su tamaño y su especialidad. Nuestra lista de [agencias de marketing digital en México y LATAM](/2026/10/08/mejores-agencias-marketing-digital-mexico-latam/) puede ser un punto de partida.
+Arma una lista de seis a ocho agencias con base en su trabajo, sus clientes, su tamaño y su especialidad. Nuestra lista de [agencias de marketing digital en México y LATAM](/mejores-agencias-marketing-digital-mexico-latam/) puede ser un punto de partida.
 
 Pide información básica (credenciales, equipo, casos parecidos al tuyo) y reduce a **tres o cuatro**. Invitar a más solo multiplica el trabajo de todos y diluye la atención que cada agencia te dedica.
 

@@ -46,7 +46,7 @@ Se dibuja como un embudo porque en cada etapa hay menos gente que en la anterior
 | **Conversión** | "Lo compro" | Que actúen | Ventas, tasa de conversión, CPA |
 | **Lealtad** | "Vuelvo a comprar y lo recomiendo" | Que repitan y te recomienden | Recompra, valor de vida del cliente, reseñas |
 
-Si alguna métrica te suena a sopa de letras, aquí explicamos [CPM, CPC, CPA y ROAS](/2026/10/08/cpm-cpc-cpa-roas/).
+Si alguna métrica te suena a sopa de letras, aquí explicamos [CPM, CPC, CPA y ROAS](/cpm-cpc-cpa-roas/).
 
 ## La parte que casi nadie hace: medir las fugas
 
@@ -90,7 +90,7 @@ La lección: no basta con "empujar" a la gente por el embudo. Hay que estar pres
 | Etapa crítica | Conversión y checkout | Calificación y seguimiento comercial |
 | Métrica clave | Tasa de conversión y CPA | Costo por cliente y tasa de cierre |
 
-En B2B, el embudo se mezcla con el proceso de ventas. Un prospecto que llena un formulario no es una venta, y lo que pasa después pesa tanto como la publicidad. Lo explicamos en [tu problema no son los leads](/2026/11/08/problema-seguimiento-leads/).
+En B2B, el embudo se mezcla con el proceso de ventas. Un prospecto que llena un formulario no es una venta, y lo que pasa después pesa tanto como la publicidad. Lo explicamos en [tu problema no son los leads](/problema-seguimiento-leads/).
 
 ## Qué contenido va en cada etapa
 

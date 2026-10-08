@@ -110,7 +110,7 @@ Las cuentas publicitarias, los píxeles y los datos de campañas deben estar a n
 
 ### 4. Revisa su capacidad digital real
 
-Hoy más de la mitad de la inversión publicitaria en México va a medios digitales, según el estudio Valor Total Media. Lo explicamos en [a dónde se está yendo el dinero](/2026/11/18/inversion-publicitaria-mexico/). Pregunta quién opera tus campañas digitales, con qué herramientas y con qué frecuencia optimiza.
+Hoy más de la mitad de la inversión publicitaria en México va a medios digitales, según el estudio Valor Total Media. Lo explicamos en [a dónde se está yendo el dinero](/inversion-publicitaria-mexico/). Pregunta quién opera tus campañas digitales, con qué herramientas y con qué frecuencia optimiza.
 
 ### 5. Define cómo se va a medir
 
