@@ -27,6 +27,7 @@ import base64
 import datetime
 import os
 import pathlib
+import re
 import sys
 
 import markdown
@@ -159,6 +160,30 @@ def media_id(self, file_path, alt):
 WP.media_id = media_id
 
 
+INTERNAL_HOSTS = ("publimerca.com", "www.publimerca.com")
+_A_TAG = re.compile(r"<a\s[^>]*>", re.I)
+
+
+def nofollow_external(html):
+    """Regla del sitio: todo enlace externo lleva rel="nofollow". Los internos (/ruta/ o publimerca.com) no."""
+    def fix(m):
+        tag = m.group(0)
+        href = re.search(r'href=["\']([^"\']+)["\']', tag, re.I)
+        if not href or not re.match(r"(?i)https?://", href.group(1)):
+            return tag
+        host = re.sub(r"(?i)^https?://", "", href.group(1)).split("/")[0].split(":")[0].lower()
+        if host in INTERNAL_HOSTS:
+            return tag
+        rel = re.search(r'rel=["\']([^"\']*)["\']', tag, re.I)
+        if rel:
+            vals = rel.group(1).split()
+            if "nofollow" in (v.lower() for v in vals):
+                return tag
+            return tag[:rel.start()] + f'rel="{" ".join(vals + ["nofollow"])}"' + tag[rel.end():]
+        return tag[:-1].rstrip("/").rstrip() + ' rel="nofollow">'
+    return _A_TAG.sub(fix, html)
+
+
 def parse(path):
     text = path.read_text(encoding="utf-8")
     if not text.startswith("---"):
@@ -182,7 +207,7 @@ def parse(path):
                   'y lo verificamos contra las fuentes enlazadas. '
                   '<a href="/quienes-somos/">Así trabajamos</a>.</p>') if meta.get("type", "post") == "post" else ""
         html = f'<style>\n{css}</style>\n<div class="pm-article">\n{html}\n{footer}\n</div>'
-    return meta, html
+    return meta, nofollow_external(html)
 
 
 def publish(wp, path):

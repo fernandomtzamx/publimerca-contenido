@@ -57,6 +57,7 @@ Gancho (2-4 párrafos cortos)
 - El publicador agrega estilo, contenedor y la nota de Alia, la editora IA. No los escribas a mano.
 - Recuadro de definición en glosarios: `<div class="pm-def" markdown="1">**Definición rápida:** ...</div>`.
 - Extensión: glosarios 1,000 a 1,400 palabras; guías, rankings y análisis 1,800 a 2,500.
+- Enlaces externos: el publicador les agrega rel="nofollow" automáticamente (regla del sitio: ningún enlace externo pasa autoridad). No lo escribas a mano.
 - Enlaces internos a piezas ya publicadas de Publimerca cuando aporten, siempre con el formato /slug/ (sin fecha) y categorías como /categoria/slug/.
 
 ## Categorías
