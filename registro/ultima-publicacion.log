@@ -1,8 +1,8 @@
-fecha: 2026-10-08T01:43:52Z
-commit: 34531559b3a079a6d734b4e96d7ed69004ffc7a7
+fecha: 2026-10-08T01:46:54Z
+commit: e545d9e339b1dbaae2991fb266928b40064f243f
 evento: workflow_dispatch
 resultado: failure
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37714334817
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37714605718
 ---
 WP_URL: presente
 WP_USER: presente
@@ -16,6 +16,6 @@ Servidor: LiteSpeed | via: - | cf-ray: no
   encabezado X-Content-Type-Options: nosniff
   encabezado Access-Control-Allow-Headers: Authorization, X-WP-Nonce, Content-Disposition, Content-MD5, Content-Type
   encabezado X-Frame-Options: SAMEORIGIN
-Respuesta con credencial real: 401 invalid_username
-Respuesta con contraseña falsa: 401 invalid_username
+Respuesta con credencial real: 401 incorrect_password
+Respuesta con contraseña falsa: 401 incorrect_password
 DIAGNÓSTICO: el encabezado SÍ llega; la credencial real es la que falla (usuario o contraseña).
