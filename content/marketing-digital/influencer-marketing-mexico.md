@@ -94,7 +94,7 @@ Define el objetivo antes de contratar y mide según eso:
 | Ventas | Ventas con código de descuento o enlace de afiliado, costo por venta |
 | Contenido | Piezas que puedes reutilizar en tus canales o anuncios, si lo acordaste |
 
-Compara el costo por venta de la campaña con el de tus otros canales. Si quieres repasar cómo se calcula, aquí explicamos [CPA, ROAS y compañía](/2026/10/14/cpm-cpc-cpa-roas/).
+Compara el costo por venta de la campaña con el de tus otros canales. Si quieres repasar cómo se calcula, aquí explicamos [CPA, ROAS y compañía](/2026/10/08/cpm-cpc-cpa-roas/).
 
 ## Tipos de colaboración y para qué sirve cada una
 

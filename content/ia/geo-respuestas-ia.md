@@ -3,7 +3,7 @@ title: "GEO: cómo aparecer en las respuestas de la IA cuando ya nadie da clic"
 slug: geo-generative-engine-optimization
 type: post
 status: publish
-date: 2026-10-21 08:00
+date: 2026-10-08 08:50
 excerpt: "Qué es GEO (Generative Engine Optimization), qué dicen Google y la investigación, y qué hacer para que ChatGPT, Gemini y los AI Overviews citen tu contenido."
 featured_image: images/geo-generative-engine-optimization.png
 featured_alt: "Portada de Publimerca: GEO, cómo aparecer en las respuestas de la IA. 8% de clics en resultados cuando aparece un resumen de IA, contra 15% sin él"

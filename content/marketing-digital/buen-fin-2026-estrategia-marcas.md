@@ -3,7 +3,7 @@ title: "Buen Fin 2026: cómo vender más sin regalar tu margen"
 slug: buen-fin-2026-estrategia-marcas
 type: post
 status: publish
-date: 2026-10-09 08:00
+date: 2026-10-08 08:00
 excerpt: "El Buen Fin 2026 será del 13 al 17 de noviembre. Cómo planear descuentos, paquetes y pauta para vender más sin destruir tu margen ni meterte en líos con Profeco."
 featured_image: images/buen-fin-2026-estrategia-marcas.png
 featured_alt: "Portada de Publimerca: Buen Fin 2026, cómo vender más sin regalar tu margen. Del 13 al 17 de noviembre, cinco días"

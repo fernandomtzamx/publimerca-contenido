@@ -84,7 +84,7 @@ En diciembre la gente tiene problemas muy concretos: qué regalar, cómo llegar 
 
 ### 5. Planea con tiempo
 
-Si la campaña navideña se piensa en noviembre, ya es tarde. Las marcas que mejor resuelven diciembre empiezan a planearlo meses antes, junto con el [calendario comercial de fin de año](/2026/10/19/calendario-black-friday-cyber-monday-buen-fin-latam-2026/).
+Si la campaña navideña se piensa en noviembre, ya es tarde. Las marcas que mejor resuelven diciembre empiezan a planearlo meses antes, junto con el [calendario comercial de fin de año](/2026/10/08/calendario-black-friday-cyber-monday-buen-fin-latam-2026/).
 
 ## El calendario de una campaña navideña
 

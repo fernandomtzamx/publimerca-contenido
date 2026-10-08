@@ -3,7 +3,7 @@ title: "CPM, CPC, CPA y ROAS: las métricas de pauta explicadas como si tuvieras
 slug: cpm-cpc-cpa-roas
 type: post
 status: publish
-date: 2026-10-14 08:00
+date: 2026-10-08 08:20
 excerpt: "Qué son CPM, CPC, CPA y ROAS, cómo se calculan, cuándo importa cada una y la trampa del ROAS alto que pierde dinero. Con fórmulas y ejemplos en pesos."
 featured_image: images/cpm-cpc-cpa-roas.png
 featured_alt: "Portada de Publimerca: CPM, CPC, CPA y ROAS explicadas como si tuvieras prisa"

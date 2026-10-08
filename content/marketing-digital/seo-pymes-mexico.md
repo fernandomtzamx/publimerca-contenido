@@ -165,7 +165,7 @@ Las reseñas en tu perfil de Google ayudan a que te elijan y a que te encuentren
 
 Google lo dice sin rodeos: los cambios pueden tardar desde horas hasta meses en reflejarse. Cualquiera que te garantice resultados en días no está siendo honesto.
 
-En cuanto a precios, como referencia, el SEO para pymes en México suele cotizarse entre $1,800 y $20,000 pesos al mes, según el alcance. Lo desglosamos en [cuánto cuesta una agencia de marketing digital](/2026/10/16/cuanto-cuesta-agencia-marketing-digital-mexico/).
+En cuanto a precios, como referencia, el SEO para pymes en México suele cotizarse entre $1,800 y $20,000 pesos al mes, según el alcance. Lo desglosamos en [cuánto cuesta una agencia de marketing digital](/2026/10/08/cuanto-cuesta-agencia-marketing-digital-mexico/).
 
 ## Tu plan de 30 días
 

@@ -180,7 +180,7 @@ Esta guía se enfoca en las tres plataformas que más preguntas generan, pero no
 
 ## Cómo saber si está funcionando
 
-Mide lo mismo en las tres para poder comparar: costo por venta o prospecto, tasa de conversión y, si vendes en línea, retorno sobre la inversión publicitaria. Si alguno de esos términos te suena a sopa de letras, aquí explicamos [CPM, CPC, CPA y ROAS](/2026/10/14/cpm-cpc-cpa-roas/).
+Mide lo mismo en las tres para poder comparar: costo por venta o prospecto, tasa de conversión y, si vendes en línea, retorno sobre la inversión publicitaria. Si alguno de esos términos te suena a sopa de letras, aquí explicamos [CPM, CPC, CPA y ROAS](/2026/10/08/cpm-cpc-cpa-roas/).
 
 Una advertencia: cada plataforma mide sus propios resultados y suele atribuirse ventas que otras también reclaman. Compara siempre contra tus ventas reales, no contra la suma de lo que dicen los tres tableros.
 

@@ -3,7 +3,7 @@ title: "Por qué no aceptamos dinero por aparecer en nuestras listas"
 slug: por-que-no-aceptamos-dinero-listas
 type: post
 status: publish
-date: 2026-10-11 08:00
+date: 2026-10-08 08:10
 excerpt: "Las listas de 'mejores agencias' suelen tener patrocinadores escondidos. En Publimerca nadie paga por aparecer. Te explicamos por qué y cómo detectar un ranking comprado."
 featured_image: images/por-que-no-aceptamos-dinero-listas.png
 featured_alt: "Portada de Publimerca: Por qué no aceptamos dinero por aparecer en nuestras listas. $0 pagaron las agencias por aparecer en nuestras listas"

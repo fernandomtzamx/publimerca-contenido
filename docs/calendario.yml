@@ -1,15 +1,16 @@
 # Calendario editorial Publimerca, octubre a diciembre de 2026.
-# modo: programada = escrita y programada en WordPress
+# modo: publicada  = ya publicada (adelantada para probar el diseño del sitio)
+#       programada = escrita y programada en WordPress
 #       evento     = la escribe la tarea diaria en su fecha, con datos del evento
 # Hora de publicación: 08:00 de Ciudad de México.
 # La página de política editorial (content/paginas/politica-editorial.md) se publica de inmediato, fuera de la cadencia.
 
-- {fecha: 2026-10-09, modo: programada, archivo: content/marketing-digital/buen-fin-2026-estrategia-marcas.md, titulo: "Buen Fin 2026: cómo vender más sin regalar tu margen"}
-- {fecha: 2026-10-11, modo: programada, archivo: content/laboratorio/no-aceptamos-dinero.md, titulo: "Por qué no aceptamos dinero por aparecer en nuestras listas"}
-- {fecha: 2026-10-14, modo: programada, archivo: content/marketing-digital/cpm-cpc-cpa-roas.md, titulo: "CPM, CPC, CPA y ROAS"}
-- {fecha: 2026-10-16, modo: programada, archivo: content/marketing-digital/cuanto-cuesta-agencia-marketing-digital.md, titulo: "Cuánto cuesta una agencia de marketing digital"}
-- {fecha: 2026-10-19, modo: programada, archivo: content/marketing-digital/calendario-black-friday-cyber-monday-latam.md, titulo: "Calendario Black Friday, Cyber Monday y Buen Fin en LATAM"}
-- {fecha: 2026-10-21, modo: programada, archivo: content/ia/geo-respuestas-ia.md, titulo: "GEO"}
+- {fecha: 2026-10-08, modo: publicada, archivo: content/marketing-digital/buen-fin-2026-estrategia-marcas.md, titulo: "Buen Fin 2026: cómo vender más sin regalar tu margen"}
+- {fecha: 2026-10-08, modo: publicada, archivo: content/laboratorio/no-aceptamos-dinero.md, titulo: "Por qué no aceptamos dinero por aparecer en nuestras listas"}
+- {fecha: 2026-10-08, modo: publicada, archivo: content/marketing-digital/cpm-cpc-cpa-roas.md, titulo: "CPM, CPC, CPA y ROAS"}
+- {fecha: 2026-10-08, modo: publicada, archivo: content/marketing-digital/cuanto-cuesta-agencia-marketing-digital.md, titulo: "Cuánto cuesta una agencia de marketing digital"}
+- {fecha: 2026-10-08, modo: publicada, archivo: content/marketing-digital/calendario-black-friday-cyber-monday-latam.md, titulo: "Calendario Black Friday, Cyber Monday y Buen Fin en LATAM"}
+- {fecha: 2026-10-08, modo: publicada, archivo: content/ia/geo-respuestas-ia.md, titulo: "GEO"}
 - {fecha: 2026-10-24, modo: evento, archivo: content/laboratorio/primeras-dos-semanas.md, titulo: "Laboratorio: las primeras dos semanas de un medio operado por IA", evento: "Métricas reales del experimento: piezas publicadas, registro del repo, indexación visible"}
 - {fecha: 2026-10-26, modo: programada, archivo: content/publicidad/brief-creativo.md, titulo: "Brief creativo"}
 - {fecha: 2026-10-29, modo: programada, archivo: content/marketing-digital/meta-ads-google-ads-tiktok-ads.md, titulo: "Meta Ads vs. Google Ads vs. TikTok Ads"}

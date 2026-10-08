@@ -3,7 +3,7 @@ title: "Cuánto cuesta una agencia de marketing digital en México en 2026"
 slug: cuanto-cuesta-agencia-marketing-digital-mexico
 type: post
 status: publish
-date: 2026-10-16 08:00
+date: 2026-10-08 08:30
 excerpt: "Rangos reales de precios de agencias de marketing digital en México: SEO, redes, pauta y web. Modelos de cobro, costos escondidos y cómo comparar cotizaciones."
 featured_image: images/cuanto-cuesta-agencia-marketing-digital-mexico.png
 featured_alt: "Portada de Publimerca: Cuánto cuesta una agencia de marketing digital en México en 2026. Planes de 7,000 a 25,000 pesos al mes como referencia"
@@ -127,7 +127,7 @@ Pide que cada agencia te responda lo mismo, por escrito:
 1. **Entregables concretos por mes.** Cuántas publicaciones, cuántas campañas, cuántos artículos, cuántos reportes.
 2. **Horas o personas asignadas.** Y quién es el contacto principal.
 3. **Qué no incluye.** Pauta, IVA, herramientas, producción.
-4. **Cómo medirán el éxito.** Qué métricas y con qué frecuencia. Si no sabes qué significan, aquí te explicamos [CPM, CPC, CPA y ROAS](/2026/10/14/cpm-cpc-cpa-roas/).
+4. **Cómo medirán el éxito.** Qué métricas y con qué frecuencia. Si no sabes qué significan, aquí te explicamos [CPM, CPC, CPA y ROAS](/2026/10/08/cpm-cpc-cpa-roas/).
 5. **Plazo mínimo y salida.** ¿Hay contrato forzoso? ¿Cuánto aviso para cancelar?
 6. **Propiedad.** Cuentas publicitarias, píxeles, sitio y contenidos a nombre de tu empresa.
 

@@ -79,7 +79,7 @@ Si quieres sacarles más provecho, en unos días publicamos una guía de prompts
 
 **Para qué sirven:** decidir a quién mostrar el anuncio, cuánto pujar y qué combinación de creatividades funciona mejor.
 
-**Dónde fallan:** son cajas negras. Optimizan exactamente lo que les pides, así que si les pides clics baratos, te dan clics baratos aunque no vendan. Configura bien las conversiones y revisa contra tus ventas reales. Aquí explicamos [qué medir en tu pauta](/2026/10/14/cpm-cpc-cpa-roas/).
+**Dónde fallan:** son cajas negras. Optimizan exactamente lo que les pides, así que si les pides clics baratos, te dan clics baratos aunque no vendan. Configura bien las conversiones y revisa contra tus ventas reales. Aquí explicamos [qué medir en tu pauta](/2026/10/08/cpm-cpc-cpa-roas/).
 
 ### SEO y contenido
 

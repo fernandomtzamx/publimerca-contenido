@@ -46,7 +46,7 @@ Se dibuja como un embudo porque en cada etapa hay menos gente que en la anterior
 | **Conversión** | "Lo compro" | Que actúen | Ventas, tasa de conversión, CPA |
 | **Lealtad** | "Vuelvo a comprar y lo recomiendo" | Que repitan y te recomienden | Recompra, valor de vida del cliente, reseñas |
 
-Si alguna métrica te suena a sopa de letras, aquí explicamos [CPM, CPC, CPA y ROAS](/2026/10/14/cpm-cpc-cpa-roas/).
+Si alguna métrica te suena a sopa de letras, aquí explicamos [CPM, CPC, CPA y ROAS](/2026/10/08/cpm-cpc-cpa-roas/).
 
 ## La parte que casi nadie hace: medir las fugas
 

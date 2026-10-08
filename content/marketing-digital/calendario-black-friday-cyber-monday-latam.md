@@ -3,7 +3,7 @@ title: "Black Friday, Cyber Monday y Buen Fin 2026: el calendario de LATAM país
 slug: calendario-black-friday-cyber-monday-buen-fin-latam-2026
 type: post
 status: publish
-date: 2026-10-19 08:00
+date: 2026-10-08 08:40
 excerpt: "Fechas 2026 de CyberMonday Argentina, Cyber Wow Perú, Buen Fin México, Black Friday y Cyber Monday en LATAM, más cómo planear si vendes en varios países."
 featured_image: images/calendario-black-friday-cyber-monday-buen-fin-latam-2026.png
 featured_alt: "Portada de Publimerca: calendario 2026 de Black Friday, Cyber Monday y Buen Fin en LATAM, con las fechas de Argentina, Perú, México, Black Friday y Cyber Monday"
@@ -61,7 +61,7 @@ Si ya participaste en las ediciones de abril y julio, tienes algo que muchos no 
 
 El Buen Fin 2026 cambia de formato: va de viernes a martes, en lugar de jueves a lunes, y coincide con el puente de la Revolución ([N+](https://www.nmas.com.mx/economia/el-buen-fin-2026-cambia-de-dias-cuando-es-fecha-inicio-detalles-temporada-ofertas/)). En 2025 movió 219,200 millones de pesos, con alrededor de 21% en comercio electrónico ([El CEO](https://elceo.com/negocios/el-buen-fin-2025-supera-los-219200-millones-de-pesos-en-ventas-y-rebasa-su-meta-oficial/)).
 
-Si vas a participar, te dejamos una guía completa para [vender más sin regalar tu margen](/2026/10/09/buen-fin-2026-estrategia-marcas/).
+Si vas a participar, te dejamos una guía completa para [vender más sin regalar tu margen](/2026/10/08/buen-fin-2026-estrategia-marcas/).
 
 ### Chile: Cyber Monday ya pasó, Black Friday del 27 al 30
 

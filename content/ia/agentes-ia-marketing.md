@@ -71,7 +71,7 @@ Y una advertencia complementaria: en la investigación B2B del Content Marketing
 | Segmentación y personalización | Agrupan audiencias según comportamiento |
 | Operación repetitiva | Programación de publicaciones, etiquetado, actualizaciones |
 
-El reporte de Salesforce también menciona que 85% de los marketers dice que la IA está cambiando su estrategia de SEO y 88% ya optimiza para respuestas generadas por IA. Lo explicamos en nuestra guía de [GEO](/2026/10/21/geo-generative-engine-optimization/).
+El reporte de Salesforce también menciona que 85% de los marketers dice que la IA está cambiando su estrategia de SEO y 88% ya optimiza para respuestas generadas por IA. Lo explicamos en nuestra guía de [GEO](/2026/10/08/geo-generative-engine-optimization/).
 
 ## Dónde todavía fallan
 
