@@ -1,0 +1,65 @@
+#!/usr/bin/env python3
+"""Puerta de calidad mínima antes de publicar. Uso: python scripts/lint.py archivo.md [...]
+
+Revisa: frontmatter obligatorio, guiones largos/medios, extensión por formato,
+portada existente, enlaces a fuentes, longitud de título y extracto.
+Sale con código 1 si hay errores (no avisos).
+"""
+import pathlib
+import re
+import sys
+
+import yaml
+
+ROOT = pathlib.Path(__file__).resolve().parent.parent
+REQ = ["title", "slug", "type", "status", "excerpt"]
+
+
+def check(path):
+    errs, warns = [], []
+    text = path.read_text(encoding="utf-8")
+    _, fm, body = text.split("---", 2)
+    meta = yaml.safe_load(fm) or {}
+    for k in REQ:
+        if not meta.get(k):
+            errs.append(f"falta '{k}'")
+    if "—" in text or "–" in text:
+        errs.append("contiene guion largo o medio")
+    plain = re.sub(r"\(https?://[^)]+\)|<[^>]+>|```.*?```", " ", body, flags=re.S)
+    words = len(re.findall(r"[\wáéíóúñÁÉÍÓÚÑü']+", plain))
+    sources = len(re.findall(r"\]\(https?://", body))
+    if meta.get("type", "post") == "post":
+        if not meta.get("date") and meta.get("layout") != "raw":
+            warns.append("sin fecha programada")
+        img = meta.get("featured_image")
+        if not img or not (ROOT / img).exists():
+            errs.append("portada inexistente")
+        if words < 900:
+            errs.append(f"muy corto ({words} palabras)")
+        if sources < 2:
+            warns.append(f"pocas fuentes enlazadas ({sources})")
+    if len(str(meta.get("title", ""))) > 80:
+        warns.append("título de más de 80 caracteres")
+    ex = len(str(meta.get("excerpt", "")))
+    if not 120 <= ex <= 170:
+        warns.append(f"extracto de {ex} caracteres (ideal 140 a 160)")
+    return words, sources, errs, warns
+
+
+def main():
+    bad = 0
+    for f in sys.argv[1:]:
+        p = pathlib.Path(f)
+        words, sources, errs, warns = check(p)
+        status = "ERROR" if errs else "ok"
+        print(f"{status:5} {p.name}: {words} palabras, {sources} fuentes")
+        for e in errs:
+            print(f"      x {e}")
+        for w in warns:
+            print(f"      ! {w}")
+        bad += bool(errs)
+    sys.exit(1 if bad else 0)
+
+
+if __name__ == "__main__":
+    main()

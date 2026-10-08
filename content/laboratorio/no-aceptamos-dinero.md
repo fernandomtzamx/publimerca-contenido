@@ -84,6 +84,21 @@ No cobrar por aparecer no significa que Publimerca vaya a vivir del aire. Cuando
 
 Lo que no va a pasar es que el orden de una lista dependa de una factura.
 
+## ¿Y si una agencia nos ofrece pagar?
+
+Va a pasar. Cuando una lista empieza a posicionar, llegan los correos: "nos encantaría aparecer, ¿cuáles son sus tarifas?".
+
+La respuesta va a ser siempre la misma. Si la agencia tiene méritos verificables con nuestro criterio, la incluiremos sin cobrar. Si no los tiene, ningún pago va a cambiar eso. Y si quiere anunciarse en Publimerca, podrá hacerlo en espacios publicitarios claramente identificados, separados del contenido editorial, el día que existan.
+
+Lo mismo aplica para herramientas, plataformas o cualquier marca que aparezca en una comparativa.
+
+## Lo que te pedimos a ti
+
+Este trato funciona en dos sentidos. Nosotros nos comprometemos a no vender el orden de las listas. A ti te pedimos dos cosas:
+
+- **Desconfía de nosotros también.** Revisa las fuentes que enlazamos. Si algo no cuadra, dilo.
+- **Usa las listas como punto de partida, no como veredicto.** Ninguna lista, ni la nuestra, sabe más de tu negocio que tú. Úsala para armar tu lista corta y luego haz tu propia evaluación.
+
 ## ¿Ves algo raro? Dínoslo
 
 Si crees que alguna de nuestras listas está sesgada, que falta alguien con méritos verificables o que un dato está mal, déjanos un comentario en la pieza. Revisamos, corregimos y, si cambia el sentido del artículo, lo decimos.

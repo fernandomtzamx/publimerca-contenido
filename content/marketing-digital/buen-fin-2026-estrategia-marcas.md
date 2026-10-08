@@ -104,6 +104,46 @@ Inflar el precio de referencia en octubre para anunciar un "50% de descuento" en
 
 Ojo con el registro: los comercios deben estar acreditados en la plataforma oficial del programa para usar el distintivo, y Profeco recomienda a los compradores verificar que la tienda lo muestre antes de pagar ([Ruptura360](https://ruptura360.mx/periodismo-de-servicio/el-buen-fin-2026-fechas-oficiales-mexico/)).
 
+## Qué compra y cómo paga el comprador del Buen Fin
+
+Antes de decidir qué descontar, conviene saber qué busca la gente. Según los resultados de la AMVO sobre el Buen Fin 2025, recogidos por Xataka México ([Xataka México](https://www.xataka.com.mx/empresas-y-economia/mexico-eligio-quedarse-casa-buen-fin-2025-compro-que-nunca-rompieron-record-evento)):
+
+| Categorías más compradas en línea | % de compradores |
+| --- | --- |
+| Electrónicos | 38% |
+| Moda | 35% |
+| Belleza y cuidado personal | 20% |
+| Juguetes | 20% |
+| Electrodomésticos | 19% |
+
+Los motivos para comprar en línea también dicen mucho: ahorrar tiempo y traslados (32%), comparar precios y variedad (28%) y encontrar más promociones (28%). Y entre los motivos para comprar durante el Buen Fin, destacan aprovechar descuentos (46%) y adelantar las compras navideñas (26%).
+
+En medios de pago en línea dominaron la tarjeta de crédito (48%) y la de débito (43%), seguidas por la tarjeta departamental (17%), según la misma nota.
+
+Tres lecturas prácticas:
+
+- **Si vendes electrónicos o moda, vas a competir contra todos.** Ahí la diferencia la hacen el envío, la disponibilidad y el valor agregado, no solo el precio.
+- **Una cuarta parte compra para Navidad.** Comunica fechas de entrega garantizadas y opciones de regalo. Es un argumento de venta, no una nota al pie.
+- **El que compara precios no es tu enemigo.** Es tu cliente más informado. Dale razones para quedarse que no sean solo un número más bajo.
+
+## Si eres pyme y tu presupuesto es corto
+
+No necesitas competir con las cadenas en su terreno. Necesitas elegir bien tu pelea:
+
+1. **Escoge pocos productos.** Mejor tres ofertas claras que treinta mediocres.
+2. **Habla primero con tus clientes actuales.** Un correo o un mensaje a tu base de clientes cuesta muy poco y convierte mejor que la pauta fría.
+3. **Usa lo que el grande no puede:** atención personal, empaque cuidado, envío local rápido, recomendaciones honestas.
+4. **Pon un límite de gasto en pauta por día** y revísalo cada mañana durante el evento.
+5. **Prepara respuestas rápidas** para preguntas frecuentes en WhatsApp y redes: tiempos de entrega, cambios, meses sin intereses.
+
+## Los errores que más se repiten
+
+- **Descontar todo el catálogo por igual** y descubrir después que los productos más vendidos eran los de menor margen.
+- **Lanzar la oferta el mismo día** sin haber calentado audiencias, y pagar la pauta más cara del año por gente que nunca te había visto.
+- **Quedarse sin inventario el sábado** de los productos gancho y seguir pagando anuncios que llevan a "agotado".
+- **Olvidar la atención al cliente.** Los mensajes se multiplican durante el evento y los clientes sin respuesta se van con la competencia.
+- **Medir solo ventas brutas** y celebrar un récord que dejó menos utilidad que un fin de semana normal.
+
 ## La pauta: compra la intención, no el ruido
 
 En el Buen Fin, todo el mundo puja más alto por las mismas audiencias. Tres reglas para no tirar dinero:
