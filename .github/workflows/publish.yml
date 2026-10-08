@@ -1,0 +1,64 @@
+name: Publicar en WordPress
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "content/**"
+      - "scripts/publish.py"
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: "check = probar credenciales, all = republicar todo content/"
+        required: true
+        default: check
+        type: choice
+        options: [check, all]
+
+concurrency:
+  group: publish-wordpress
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      WP_URL: ${{ secrets.WP_URL }}
+      WP_USER: ${{ secrets.WP_USER }}
+      WP_APP_PASSWORD: ${{ secrets.WP_APP_PASSWORD }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r requirements.txt
+
+      - name: Probar credenciales
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'check'
+        run: python scripts/publish.py --check
+
+      - name: Republicar todo
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'all'
+        run: python scripts/publish.py --all
+
+      - name: Publicar archivos modificados
+        if: github.event_name == 'push'
+        run: |
+          BEFORE="${{ github.event.before }}"
+          if [ -z "$BEFORE" ] || [ "$BEFORE" = "0000000000000000000000000000000000000000" ]; then
+            FILES=$(git ls-files 'content/*.md' 'content/**/*.md')
+          else
+            FILES=$(git diff --name-only --diff-filter=AM "$BEFORE" "${{ github.sha }}" -- 'content/')
+          fi
+          FILES=$(echo "$FILES" | grep '\.md$' || true)
+          if [ -z "$FILES" ]; then
+            echo "Sin cambios de contenido."
+            python scripts/publish.py --check
+          else
+            echo "$FILES"
+            python scripts/publish.py $FILES
+          fi
