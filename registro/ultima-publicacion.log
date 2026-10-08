@@ -1,36 +1,55 @@
-fecha: 2026-10-08T04:02:57Z
-commit: c11c9bfe43785335883b1c2a06ca4d9ff5708835
+fecha: 2026-10-08T04:13:01Z
+commit: bac703e97b81551d01770685c44aca6edccbe733
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37725559028
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37726355928
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: content/ia/geo-respuestas-ia.md content/laboratorio/no-aceptamos-dinero.md content/marketing-digital/buen-fin-2026-estrategia-marcas.md content/marketing-digital/calendario-black-friday-cyber-monday-latam.md content/marketing-digital/cuanto-cuesta-agencia-marketing-digital.md 
+Argumentos: content/ia/google-contenido-ia.md content/industria/inversion-publicitaria-mexico.md content/marketing-digital/meta-ads-google-ads-tiktok-ads.md content/marketing-digital/problema-seguimiento-leads.md content/marketing-digital/seo-pymes-mexico.md content/publicidad/brief-creativo.md content/publicidad/btl-atl-ttl.md content/publicidad/oreo-cows-explicada.md 
 /home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py:196: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
-  + categoría creada: ia-y-marketing
-  + etiqueta creada: GEO
-  + etiqueta creada: SEO
-  + etiqueta creada: AI Overviews
-  + etiqueta creada: ChatGPT
-  + etiqueta creada: inteligencia artificial
-  + imagen subida: geo-generative-engine-optimization.png (id 1819)
-content/ia/geo-respuestas-ia.md: post creada (future) id=1820 https://www.publimerca.com/?p=1820
-  = imagen reutilizada: por-que-no-aceptamos-dinero-listas (id 1812)
-content/laboratorio/no-aceptamos-dinero.md: post actualizada (future) id=1813 https://www.publimerca.com/?p=1813
-  = imagen reutilizada: buen-fin-2026-estrategia-marcas (id 1814)
-content/marketing-digital/buen-fin-2026-estrategia-marcas.md: post actualizada (future) id=1815 https://www.publimerca.com/?p=1815
-  + etiqueta creada: Black Friday
-  + etiqueta creada: Cyber Monday
-  + etiqueta creada: calendario comercial
-  + imagen subida: calendario-black-friday-cyber-monday-buen-fin-latam-2026.png (id 1823)
-content/marketing-digital/calendario-black-friday-cyber-monday-latam.md: post creada (future) id=1824 https://www.publimerca.com/?p=1824
-  + etiqueta creada: precios
-  + etiqueta creada: pymes
-  + imagen subida: cuanto-cuesta-agencia-marketing-digital-mexico.png (id 1825)
-content/marketing-digital/cuanto-cuesta-agencia-marketing-digital.md: post creada (future) id=1826 https://www.publimerca.com/?p=1826
+  + etiqueta creada: Google
+  + etiqueta creada: contenido
+  + etiqueta creada: spam
+  + imagen subida: google-contenido-ia-scaled-content-abuse.png (id 1827)
+content/ia/google-contenido-ia.md: post creada (future) id=1828 https://www.publimerca.com/?p=1828
+  + categoría creada: industria
+  + etiqueta creada: inversión publicitaria
+  + etiqueta creada: IAB México
+  + etiqueta creada: medios
+  + etiqueta creada: datos
+  + imagen subida: inversion-publicitaria-mexico.png (id 1829)
+content/industria/inversion-publicitaria-mexico.md: post creada (future) id=1830 https://www.publimerca.com/?p=1830
+  + etiqueta creada: TikTok Ads
+  + etiqueta creada: comparativa
+  + imagen subida: meta-ads-google-ads-tiktok-ads.png (id 1831)
+content/marketing-digital/meta-ads-google-ads-tiktok-ads.md: post creada (future) id=1832 https://www.publimerca.com/?p=1832
+  + etiqueta creada: leads
+  + etiqueta creada: ventas
+  + etiqueta creada: CRM
+  + etiqueta creada: generación de demanda
+  + etiqueta creada: B2B
+  + imagen subida: problema-seguimiento-leads.png (id 1833)
+content/marketing-digital/problema-seguimiento-leads.md: post creada (future) id=1834 https://www.publimerca.com/?p=1834
+  + etiqueta creada: posicionamiento web
+  + imagen subida: seo-para-pymes-mexico.png (id 1835)
+content/marketing-digital/seo-pymes-mexico.md: post creada (future) id=1836 https://www.publimerca.com/?p=1836
+  + etiqueta creada: brief
+  + etiqueta creada: creatividad
+  + etiqueta creada: plantilla
+  + imagen subida: brief-creativo.png (id 1837)
+content/publicidad/brief-creativo.md: post creada (future) id=1838 https://www.publimerca.com/?p=1838
+  + etiqueta creada: BTL
+  + etiqueta creada: ATL
+  + etiqueta creada: TTL
+  + imagen subida: btl-atl-ttl-diferencias.png (id 1839)
+content/publicidad/btl-atl-ttl.md: post creada (future) id=1840 https://www.publimerca.com/?p=1840
+  + etiqueta creada: VML
+  + etiqueta creada: campañas
+  + imagen subida: oreo-cows-campana-explicada.png (id 1841)
+content/publicidad/oreo-cows-explicada.md: post creada (future) id=1842 https://www.publimerca.com/?p=1842
