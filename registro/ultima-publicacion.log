@@ -1,13 +1,13 @@
-fecha: 2026-10-08T01:30:29Z
-commit: 936186659fcfb0a9e9fcdda858ef9e5b06b9bc49
-evento: push
+fecha: 2026-10-08T01:35:50Z
+commit: ac94a07ced1ff8cdb8c02958e9140662b0d675d8
+evento: workflow_dispatch
 resultado: failure
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37713252221
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37713702867
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: --check
+Argumentos: --all
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Servidor: LiteSpeed | via: - | cf-ray: no
