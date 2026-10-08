@@ -1,16 +1,20 @@
-fecha: 2026-10-08T01:50:04Z
-commit: 9c8f3fe867a641090e4d2e067b77394b060dde45
-evento: workflow_dispatch
+fecha: 2026-10-08T01:56:06Z
+commit: d79f95784e0f83016cd860445820432577360d16
+evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37714852976
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37715339227
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: --all
+Argumentos: content/publicidad/mejores-agencias-publicidad-digital-mexico.md 
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
-  + categoría creada: laboratorio
-  + etiqueta creada: experimento
-content/pruebas/prueba-conexion.md: post creada (draft) id=1804 https://www.publimerca.com/?p=1804
+  + categoría creada: publicidad
+  + etiqueta creada: agencias
+  + etiqueta creada: publicidad digital
+  + etiqueta creada: México
+  + etiqueta creada: Cannes Lions
+  + etiqueta creada: Effie
+content/publicidad/mejores-agencias-publicidad-digital-mexico.md: post creada (publish) id=1807 https://www.publimerca.com/2026/10/08/mejores-agencias-publicidad-digital-mexico/
