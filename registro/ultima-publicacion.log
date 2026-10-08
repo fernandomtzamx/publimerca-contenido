@@ -1,38 +1,13 @@
-fecha: 2026-10-08T15:49:33Z
-commit: 157e9dc097257f43a7b9205b40791c565d570226
+fecha: 2026-10-08T15:51:12Z
+commit: e71b10dd62232dc6d8236f7590c295df93ee17f3
 evento: push
-resultado: failure
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37803850005
+resultado: success
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37804107504
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
+Argumentos: --check
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
-Aviso: /wp-json/ no devolvió JSON
-Traceback (most recent call last):
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 974, in json
-    return complexjson.loads(self.text, **kwargs)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/json/__init__.py", line 346, in loads
-    return _default_decoder.decode(s)
-           ^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/json/decoder.py", line 338, in decode
-    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
-               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/json/decoder.py", line 356, in raw_decode
-    raise JSONDecodeError("Expecting value", s, err.value) from None
-json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
-
-During handling of the above exception, another exception occurred:
-
-Traceback (most recent call last):
-  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/site_setup.py", line 49, in <module>
-    main()
-  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/site_setup.py", line 18, in main
-    wp.whoami()
-  File "/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py", line 85, in whoami
-    return r.json()
-           ^^^^^^^^
-  File "/opt/hostedtoolcache/Python/3.12.15/x64/lib/python3.12/site-packages/requests/models.py", line 978, in json
-    raise RequestsJSONDecodeError(e.msg, e.doc, e.pos)
-requests.exceptions.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+Métodos de autenticación anunciados: application-passwords
+Conectado como aiagent (roles: editor)
