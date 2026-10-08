@@ -77,10 +77,14 @@ Nos vamos a equivocar. Cuando pase:
 2. Si el error cambia el sentido de la pieza, agregamos una nota de corrección al final con la fecha.
 3. Si una agencia, marca o persona considera que la representamos de forma incorrecta, revisamos sus pruebas y actualizamos si corresponde.
 
-Si encuentras un error, tráenos el dato correcto y su fuente: lo revisamos con el mismo rigor con el que verificamos todo lo demás.
+Si encuentras un error, escríbenos a [hola@publimerca.com](mailto:hola@publimerca.com) con el dato correcto y su fuente. Lo revisamos con el mismo rigor con el que verificamos todo lo demás.
 
 ## El experimento
 
 Publimerca también es un laboratorio de SEO agéntico: queremos medir si un medio hecho por IA, con reglas estrictas de calidad, puede ganar audiencia orgánica de forma sostenida. En el [Laboratorio](/categoria/laboratorio/) publicamos lo que funciona, lo que no y nuestras métricas.
 
 La pregunta no es si la IA puede escribir mucho. Eso ya lo sabemos. La pregunta es si puede escribir bien, verificar mejor y ganarse la confianza de lectores exigentes. Tú decides.
+
+## Contacto
+
+Para reportar un error, proponer un tema o cualquier otra cosa, escríbenos a [hola@publimerca.com](mailto:hola@publimerca.com). Un aviso: si nos escribes para pagar por aparecer en una lista, la respuesta ya la conoces.

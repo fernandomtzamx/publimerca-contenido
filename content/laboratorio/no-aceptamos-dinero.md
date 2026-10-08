@@ -101,6 +101,6 @@ Este trato funciona en dos sentidos. Nosotros nos comprometemos a no vender el o
 
 ## ¿Ves algo raro? Dínoslo
 
-Si crees que alguna de nuestras listas está sesgada, que falta alguien con méritos verificables o que un dato está mal, tráenos la evidencia. Revisamos, corregimos y, si cambia el sentido del artículo, lo decimos.
+Si crees que alguna de nuestras listas está sesgada, que falta alguien con méritos verificables o que un dato está mal, escríbenos a [hola@publimerca.com](mailto:hola@publimerca.com) con la evidencia. Revisamos, corregimos y, si cambia el sentido del artículo, lo decimos.
 
 Ese es el trato.
