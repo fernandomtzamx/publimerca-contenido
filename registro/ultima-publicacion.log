@@ -1,13 +1,18 @@
-fecha: 2026-10-08T19:07:27Z
-commit: c1c418a78ad56b34d8ee7e54a0bd2e70ad806ed5
+fecha: 2026-10-08T19:13:12Z
+commit: cdeb7fe9968c2601f4d6f5c5f9971e9d418c846c
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37829542362
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37830262642
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: --check
+Argumentos: content/laboratorio/no-aceptamos-dinero.md content/paginas/quienes-somos.md 
+/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py:233: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
+  = imagen reutilizada: por-que-no-aceptamos-dinero-listas (id 1876)
+content/laboratorio/no-aceptamos-dinero.md: post actualizada (publish) id=1813 https://www.publimerca.com/por-que-no-aceptamos-dinero-listas/
+content/paginas/quienes-somos.md: page actualizada (publish) id=1902 https://www.publimerca.com/quienes-somos/
