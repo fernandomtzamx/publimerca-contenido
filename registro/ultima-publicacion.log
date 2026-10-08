@@ -1,15 +1,18 @@
-fecha: 2026-10-08T02:35:31Z
-commit: daee13783df0302dc0581383371037cf497bf0eb
+fecha: 2026-10-08T03:34:49Z
+commit: 4bb3b62366551b08a3bbc3a8947e2b1ff7fcf5aa
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37718599559
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/37723370759
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: content/publicidad/mejores-agencias-publicidad-digital-mexico.md 
+Argumentos: content/publicidad/mejores-agencias-marketing-digital-mexico-latam.md 
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
-  + imagen subida: mejores-agencias-publicidad-digital-mexico.png (id 1808)
-content/publicidad/mejores-agencias-publicidad-digital-mexico.md: post actualizada (publish) id=1807 https://www.publimerca.com/2026/10/08/mejores-agencias-publicidad-digital-mexico/
+  + categoría creada: marketing-digital
+  + etiqueta creada: marketing digital
+  + etiqueta creada: LATAM
+  + imagen subida: mejores-agencias-marketing-digital-mexico-latam.png (id 1810)
+content/publicidad/mejores-agencias-marketing-digital-mexico-latam.md: post actualizada (publish) id=1807 https://www.publimerca.com/2026/10/08/mejores-agencias-marketing-digital-mexico-latam/
