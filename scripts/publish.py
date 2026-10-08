@@ -45,7 +45,20 @@ def env(name):
 
 class WP:
     def __init__(self, base, user, password):
-        self.api = base.rstrip("/") + "/wp-json/wp/v2"
+        # Resolver redirecciones (http->https, sin www->www) antes de autenticar:
+        # requests descarta el encabezado Authorization al cambiar de host.
+        probe = requests.get(base.rstrip("/") + "/wp-json/", timeout=30,
+                             headers={"User-Agent": "publimerca-agente/1.0"})
+        final = probe.url.split("/wp-json")[0]
+        if final.rstrip("/") != base.rstrip("/"):
+            print(f"Aviso: {base} redirige a {final}; uso la URL final.")
+        print(f"Endpoint: {final}/wp-json/ (HTTP {probe.status_code})")
+        try:
+            auth = list((probe.json().get("authentication") or {}).keys())
+            print(f"Métodos de autenticación anunciados: {', '.join(auth) or 'ninguno'}")
+        except ValueError:
+            print("Aviso: /wp-json/ no devolvió JSON")
+        self.api = final.rstrip("/") + "/wp-json/wp/v2"
         self.s = requests.Session()
         self.s.auth = (user, password.replace(" ", ""))
         self.s.headers["User-Agent"] = "publimerca-agente/1.0"
