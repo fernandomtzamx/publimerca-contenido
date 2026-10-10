@@ -1,8 +1,8 @@
-fecha: 2026-10-10T13:34:04Z
-commit: 8c784c43cf36496e71fa5e6519e6e8009a6313bc
+fecha: 2026-10-10T13:35:14Z
+commit: 47ab8adf8258afe5aa4d578d04b01ba782690a38
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/38056186626
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/38056272365
 ---
 WP_URL: presente
 WP_USER: presente
@@ -13,12 +13,5 @@ Argumentos: content/marketing-digital/marketing-embudo-completo.md
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
-  + etiqueta creada: full funnel
-  + etiqueta creada: embudo
-  + etiqueta creada: medición
-  + etiqueta creada: atribución
-  + etiqueta creada: retail media
-  + etiqueta creada: branding
-  + etiqueta creada: performance
-  + imagen subida: marketing-embudo-completo-full-funnel.png (id 2035)
-content/marketing-digital/marketing-embudo-completo.md: post creada (future) id=2036 https://www.publimerca.com/?p=2036
+  = imagen reutilizada: marketing-embudo-completo-full-funnel (id 2035)
+content/marketing-digital/marketing-embudo-completo.md: post actualizada (publish) id=2036 https://www.publimerca.com/marketing-embudo-completo-full-funnel/
