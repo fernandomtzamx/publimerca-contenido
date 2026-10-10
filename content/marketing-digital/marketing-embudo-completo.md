@@ -3,7 +3,7 @@ title: "Marketing de embudo completo: por qué casi ninguna marca lo logra"
 slug: marketing-embudo-completo-full-funnel
 type: post
 status: publish
-date: 2026-10-10 08:00
+date: 2026-10-10 07:30
 excerpt: "Un estudio de Amazon Ads, MMA y WPP Media dice que 82% de los anunciantes quiere hacer full funnel, pero solo 18% lo logra. Qué falla y cómo empezar en México."
 featured_image: images/marketing-embudo-completo-full-funnel.png
 featured_alt: "Portada de Publimerca: Marketing de embudo completo, 82% lo quiere y solo 18% lo logra"
