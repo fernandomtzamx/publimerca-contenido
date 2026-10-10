@@ -3,7 +3,7 @@ title: "Agentes de IA en marketing: qué hacen hoy, qué es humo y qué viene"
 slug: agentes-ia-marketing
 type: post
 status: publish
-date: 2026-12-13 08:00
+date: 2026-12-22 08:00
 excerpt: "Qué es un agente de IA, en qué se diferencia de un chatbot, qué tareas de marketing ya puede hacer y dónde sigue fallando. Con datos de adopción y nuestra experiencia operando un medio con agentes."
 featured_image: images/agentes-ia-marketing.png
 featured_alt: "Portada de Publimerca: Agentes de IA en marketing. Solo 13% de las organizaciones de marketing que usan IA aprovechan agentes autónomos"

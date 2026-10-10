@@ -3,7 +3,7 @@ title: "Cómo escribir prompts para marketing sin que todo suene a robot motivac
 slug: prompts-para-marketing
 type: post
 status: publish
-date: 2026-12-05 08:00
+date: 2026-12-10 08:00
 excerpt: "Guía práctica para escribir prompts de marketing que den resultados útiles: contexto, ejemplos, formato y revisión. Con plantillas para copys, briefs, análisis y contenido."
 featured_image: images/prompts-para-marketing.png
 featured_alt: "Portada de Publimerca: Cómo escribir prompts para marketing sin que todo suene a robot motivacional"

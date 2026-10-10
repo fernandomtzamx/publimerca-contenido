@@ -3,7 +3,7 @@ title: "Agencias de medios en México y LATAM: quiénes son, qué hacen y cómo 
 slug: agencias-de-medios-mexico-latam
 type: post
 status: publish
-date: 2026-12-08 08:00
+date: 2026-12-15 08:00
 excerpt: "Qué hace una agencia de medios, quiénes dominan el mercado global y cómo cambió el mapa con la fusión Omnicom-IPG. Más una guía para elegir agencia de medios en México."
 featured_image: images/agencias-de-medios-mexico-latam.png
 featured_alt: "Portada de Publimerca: Agencias de medios en México y LATAM, quiénes son, qué hacen y cómo elegir"

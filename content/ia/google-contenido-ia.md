@@ -3,7 +3,7 @@ title: "Lo que Google castiga del contenido con IA (spoiler: no es la IA)"
 slug: google-contenido-ia-scaled-content-abuse
 type: post
 status: publish
-date: 2026-10-31 08:00
+date: 2026-10-20 08:00
 excerpt: "Google no castiga el contenido por estar hecho con IA. Castiga el contenido masivo hecho para manipular rankings. Qué es scaled content abuse y cómo evitarlo."
 featured_image: images/google-contenido-ia-scaled-content-abuse.png
 featured_alt: "Portada de Publimerca: Lo que Google castiga del contenido con IA. Scaled content abuse, política activa desde marzo de 2024"

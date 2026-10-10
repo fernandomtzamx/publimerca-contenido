@@ -3,7 +3,7 @@ title: "Brief creativo: qué es y cómo escribir uno que tu agencia no odie"
 slug: brief-creativo
 type: post
 status: publish
-date: 2026-10-26 08:00
+date: 2026-10-13 08:00
 excerpt: "Qué es un brief creativo, qué debe incluir y cómo escribir uno claro en una página. Con plantilla lista para copiar y los errores que hacen que la agencia te rebriefee."
 featured_image: images/brief-creativo.png
 featured_alt: "Portada de Publimerca: Brief creativo, qué es y cómo escribir uno. 80% de los marketers cree que hace buenos briefs; 10% de las agencias está de acuerdo"

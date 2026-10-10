@@ -1,4 +1,6 @@
-# Calendario editorial Publimerca, octubre a diciembre de 2026.
+# Calendario editorial Publimerca, octubre de 2026 a enero de 2027.
+# Cadencia: dos piezas por semana, martes y jueves a las 08:00 de Ciudad de México.
+# Pausa navideña del 23 de diciembre al 4 de enero.
 # modo: publicada  = ya publicada (adelantada para probar el diseño del sitio)
 #       programada = escrita y programada en WordPress
 #       evento     = la escribe la tarea diaria en su fecha, con datos del evento
@@ -12,26 +14,26 @@
 - {fecha: 2026-10-08, modo: publicada, archivo: content/marketing-digital/calendario-black-friday-cyber-monday-latam.md, titulo: "Calendario Black Friday, Cyber Monday y Buen Fin en LATAM"}
 - {fecha: 2026-10-08, modo: publicada, archivo: content/ia/geo-respuestas-ia.md, titulo: "GEO"}
 - {fecha: 2026-10-10, modo: publicada, archivo: content/marketing-digital/marketing-embudo-completo.md, titulo: "Marketing de embudo completo: por qué casi ninguna marca lo logra"}
-- {fecha: 2026-10-24, modo: evento, archivo: content/laboratorio/primeras-dos-semanas.md, titulo: "Laboratorio: las primeras dos semanas de un medio operado por IA", evento: "Métricas reales del experimento: piezas publicadas, registro del repo, indexación visible"}
-- {fecha: 2026-10-26, modo: programada, archivo: content/publicidad/brief-creativo.md, titulo: "Brief creativo"}
-- {fecha: 2026-10-29, modo: programada, archivo: content/marketing-digital/meta-ads-google-ads-tiktok-ads.md, titulo: "Meta Ads vs. Google Ads vs. TikTok Ads"}
-- {fecha: 2026-10-31, modo: programada, archivo: content/ia/google-contenido-ia.md, titulo: "Lo que Google castiga del contenido con IA"}
-- {fecha: 2026-11-03, modo: programada, archivo: content/publicidad/oreo-cows-explicada.md, titulo: "Oreo Cows explicada"}
+- {fecha: 2026-10-13, modo: programada, archivo: content/publicidad/brief-creativo.md, titulo: "Brief creativo"}
+- {fecha: 2026-10-15, modo: programada, archivo: content/marketing-digital/meta-ads-google-ads-tiktok-ads.md, titulo: "Meta Ads vs. Google Ads vs. TikTok Ads"}
+- {fecha: 2026-10-20, modo: programada, archivo: content/ia/google-contenido-ia.md, titulo: "Lo que Google castiga del contenido con IA"}
+- {fecha: 2026-10-22, modo: evento, archivo: content/laboratorio/primeras-dos-semanas.md, titulo: "Laboratorio: las primeras dos semanas de un medio operado por IA", evento: "Métricas reales del experimento: piezas publicadas, registro del repo, indexación visible"}
+- {fecha: 2026-10-27, modo: programada, archivo: content/publicidad/oreo-cows-explicada.md, titulo: "Oreo Cows explicada"}
+- {fecha: 2026-10-29, modo: programada, archivo: content/marketing-digital/problema-seguimiento-leads.md, titulo: "Tu problema no son los leads"}
+- {fecha: 2026-11-03, modo: programada, archivo: content/marketing-digital/seo-pymes-mexico.md, titulo: "SEO para pymes en México"}
 - {fecha: 2026-11-05, modo: evento, archivo: content/publicidad/el-ojo-iberoamerica-2026-favoritas.md, titulo: "El Ojo de Iberoamérica 2026: las agencias que llegan como favoritas", evento: "El Ojo 2026 se celebra del 11 al 13 de noviembre; usar shortlist y antecedentes de 2025"}
-- {fecha: 2026-11-08, modo: programada, archivo: content/marketing-digital/problema-seguimiento-leads.md, titulo: "Tu problema no son los leads"}
-- {fecha: 2026-11-10, modo: programada, archivo: content/marketing-digital/seo-pymes-mexico.md, titulo: "SEO para pymes en México"}
-- {fecha: 2026-11-13, modo: evento, archivo: content/publicidad/effie-mexico-2026-ganadores.md, titulo: "Effie México 2026: ganadores y lo que dicen sobre qué funciona", evento: "Ceremonia Effie México 2026 (fecha por confirmar). Si aún no hay ganadores, publicar en su lugar una pieza perenne del banco de reserva y mover esta"}
-- {fecha: 2026-11-15, modo: programada, archivo: content/publicidad/btl-atl-ttl.md, titulo: "BTL, ATL y TTL"}
-- {fecha: 2026-11-18, modo: programada, archivo: content/industria/inversion-publicitaria-mexico.md, titulo: "Inversión publicitaria en México"}
-- {fecha: 2026-11-20, modo: programada, archivo: content/publicidad/peru-creatividad-latam.md, titulo: "Por qué Perú gana la conversación creativa"}
-- {fecha: 2026-11-23, modo: programada, archivo: content/ia/herramientas-ia-marketing.md, titulo: "Herramientas de IA para marketing"}
-- {fecha: 2026-11-25, modo: programada, archivo: content/publicidad/pitch-de-agencias.md, titulo: "Pitch de agencias"}
-- {fecha: 2026-11-28, modo: programada, archivo: content/publicidad/que-es-un-insight.md, titulo: "Insight"}
-- {fecha: 2026-11-30, modo: programada, archivo: content/marketing-digital/embudo-de-conversion.md, titulo: "Embudo de conversión"}
+- {fecha: 2026-11-10, modo: programada, archivo: content/publicidad/btl-atl-ttl.md, titulo: "BTL, ATL y TTL"}
+- {fecha: 2026-11-12, modo: evento, archivo: content/publicidad/effie-mexico-2026-ganadores.md, titulo: "Effie México 2026: ganadores y lo que dicen sobre qué funciona", evento: "Ceremonia Effie México 2026 (fecha por confirmar). Si aún no hay ganadores, publicar en su lugar una pieza perenne del banco de reserva y mover esta"}
+- {fecha: 2026-11-17, modo: programada, archivo: content/industria/inversion-publicitaria-mexico.md, titulo: "Inversión publicitaria en México"}
+- {fecha: 2026-11-19, modo: programada, archivo: content/publicidad/peru-creatividad-latam.md, titulo: "Por qué Perú gana la conversación creativa"}
+- {fecha: 2026-11-24, modo: programada, archivo: content/ia/herramientas-ia-marketing.md, titulo: "Herramientas de IA para marketing"}
+- {fecha: 2026-11-26, modo: programada, archivo: content/publicidad/pitch-de-agencias.md, titulo: "Pitch de agencias"}
+- {fecha: 2026-12-01, modo: programada, archivo: content/publicidad/que-es-un-insight.md, titulo: "Insight"}
 - {fecha: 2026-12-03, modo: programada, archivo: content/publicidad/campanas-navidenas.md, titulo: "Campañas navideñas que sí venden: qué enseñan los mejores casos y cómo aplicarlo en México"}
-- {fecha: 2026-12-05, modo: programada, archivo: content/ia/prompts-para-marketing.md, titulo: "Prompts para marketing"}
-- {fecha: 2026-12-08, modo: programada, archivo: content/industria/agencias-de-medios.md, titulo: "Agencias de medios en México y LATAM"}
-- {fecha: 2026-12-10, modo: programada, archivo: content/marketing-digital/influencer-marketing-mexico.md, titulo: "Influencer marketing en México"}
-- {fecha: 2026-12-13, modo: programada, archivo: content/ia/agentes-ia-marketing.md, titulo: "Agentes de IA en marketing"}
-- {fecha: 2026-12-15, modo: programada, archivo: content/industria/agencias-independientes.md, titulo: "Agencias independientes contra redes globales"}
-- {fecha: 2026-12-18, modo: programada, archivo: content/marketing-digital/marketing-de-contenidos.md, titulo: "Marketing de contenidos"}
+- {fecha: 2026-12-08, modo: programada, archivo: content/marketing-digital/embudo-de-conversion.md, titulo: "Embudo de conversión"}
+- {fecha: 2026-12-10, modo: programada, archivo: content/ia/prompts-para-marketing.md, titulo: "Prompts para marketing"}
+- {fecha: 2026-12-15, modo: programada, archivo: content/industria/agencias-de-medios.md, titulo: "Agencias de medios en México y LATAM"}
+- {fecha: 2026-12-17, modo: programada, archivo: content/marketing-digital/influencer-marketing-mexico.md, titulo: "Influencer marketing en México"}
+- {fecha: 2026-12-22, modo: programada, archivo: content/ia/agentes-ia-marketing.md, titulo: "Agentes de IA en marketing"}
+- {fecha: 2027-01-05, modo: programada, archivo: content/industria/agencias-independientes.md, titulo: "Agencias independientes contra redes globales"}
+- {fecha: 2027-01-07, modo: programada, archivo: content/marketing-digital/marketing-de-contenidos.md, titulo: "Marketing de contenidos"}

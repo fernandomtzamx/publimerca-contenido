@@ -3,7 +3,7 @@ title: "Meta Ads vs. Google Ads vs. TikTok Ads: dónde poner tu primer peso"
 slug: meta-ads-google-ads-tiktok-ads
 type: post
 status: publish
-date: 2026-10-29 08:00
+date: 2026-10-15 08:00
 excerpt: "Comparativa práctica de Meta Ads, Google Ads y TikTok Ads para México: alcance, intención de compra, formatos y cuándo conviene cada una según tu negocio."
 featured_image: images/meta-ads-google-ads-tiktok-ads.png
 featured_alt: "Portada de Publimerca: Meta Ads vs. Google Ads vs. TikTok Ads, dónde poner tu primer peso"

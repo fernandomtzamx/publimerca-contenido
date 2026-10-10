@@ -3,7 +3,7 @@ title: "Insight: qué es, qué no es y por qué casi todos los 'insights' son da
 slug: que-es-un-insight
 type: post
 status: publish
-date: 2026-11-28 08:00
+date: 2026-12-01 08:00
 excerpt: "Qué es un insight en marketing y publicidad, en qué se diferencia de un dato o una observación, cómo encontrar uno y ejemplos reales de campañas que nacieron de un buen insight."
 featured_image: images/que-es-un-insight.png
 featured_alt: "Portada de Publimerca: Insight, qué es, qué no es y por qué casi todos los insights son datos"

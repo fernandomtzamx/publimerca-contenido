@@ -3,7 +3,7 @@ title: "Influencer marketing en México: cuánto cobran, cómo medir y cuándo n
 slug: influencer-marketing-mexico
 type: post
 status: publish
-date: 2026-12-10 08:00
+date: 2026-12-17 08:00
 excerpt: "Cuánto cobra un influencer en México por publicación, cómo elegir creadores, qué pide Profeco sobre publicidad identificada y cómo medir si la campaña funcionó."
 featured_image: images/influencer-marketing-mexico.png
 featured_alt: "Portada de Publimerca: Influencer marketing en México, cuánto cobran, cómo medir y cuándo no vale la pena. De 2,000 a 25,000 pesos por publicación como referencia"

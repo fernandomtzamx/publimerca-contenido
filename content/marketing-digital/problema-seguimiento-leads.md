@@ -3,7 +3,7 @@ title: "Tu campaña no tiene un problema de leads. Tiene un problema de seguimie
 slug: problema-seguimiento-leads
 type: post
 status: publish
-date: 2026-11-08 08:00
+date: 2026-10-29 08:00
 excerpt: "Antes de pedir más leads, revisa qué pasa con los que ya tienes. Tiempo de respuesta, asignación, seguimiento y medición: el checklist para dejar de perder ventas."
 featured_image: images/problema-seguimiento-leads.png
 featured_alt: "Portada de Publimerca: Tu campaña no tiene un problema de leads, tiene un problema de seguimiento. Responder en la primera hora multiplica casi por 7 la probabilidad de calificar un lead"

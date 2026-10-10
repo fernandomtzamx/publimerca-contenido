@@ -3,7 +3,7 @@ title: "Inversión publicitaria en México: a dónde se está yendo el dinero"
 slug: inversion-publicitaria-mexico
 type: post
 status: publish
-date: 2026-11-18 08:00
+date: 2026-11-17 08:00
 excerpt: "Cuánto se invierte en publicidad en México, cuánto va a digital, cómo se reparte entre video, búsqueda, TV y exterior, y qué significa para tu presupuesto."
 featured_image: images/inversion-publicitaria-mexico.png
 featured_alt: "Portada de Publimerca: Inversión publicitaria en México. 58% de la inversión se dirige a medios digitales"

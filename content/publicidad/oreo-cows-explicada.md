@@ -3,7 +3,7 @@ title: "Oreo Cows explicada: la campaña mexicana que ganó un Titanium y ademá
 slug: oreo-cows-campana-explicada
 type: post
 status: publish
-date: 2026-11-03 08:00
+date: 2026-10-27 08:00
 excerpt: "Cómo VML México y Nueva York convirtieron unas vacas con 'abrigo de galleta' en la campaña Titanium de Cannes 2026. Qué hicieron, por qué funciona y qué puedes copiar."
 featured_image: images/oreo-cows-campana-explicada.png
 featured_alt: "Portada de Publimerca: Oreo Cows explicada, la campaña de VML México que ganó un Titanium en Cannes Lions 2026"

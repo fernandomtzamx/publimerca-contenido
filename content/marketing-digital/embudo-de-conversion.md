@@ -3,7 +3,7 @@ title: "Embudo de conversión: el modelo que todos citan y casi nadie mide bien"
 slug: embudo-de-conversion
 type: post
 status: publish
-date: 2026-11-30 08:00
+date: 2026-12-08 08:00
 excerpt: "Qué es el embudo de conversión, sus etapas, cómo medir cada una y por qué el comprador real no se mueve en línea recta. Con métricas, ejemplos y el modelo del 'messy middle' de Google."
 featured_image: images/embudo-de-conversion.png
 featured_alt: "Portada de Publimerca: Embudo de conversión, el modelo que todos citan y casi nadie mide bien"

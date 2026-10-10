@@ -3,7 +3,7 @@ title: "Agencias independientes contra redes globales: quién está ganando en M
 slug: agencias-independientes-mexico-latam
 type: post
 status: publish
-date: 2026-12-15 08:00
+date: 2027-01-05 08:00
 excerpt: "Las agencias independientes ganan cuentas, premios y terreno en México y LATAM mientras las redes globales se fusionan. Qué está pasando y cómo elegir entre una y otra."
 featured_image: images/agencias-independientes-mexico-latam.png
 featured_alt: "Portada de Publimerca: Agencias independientes contra redes globales. Las independientes captaron 13% del valor de cuentas de medios que cambiaron de agencia en 2025"

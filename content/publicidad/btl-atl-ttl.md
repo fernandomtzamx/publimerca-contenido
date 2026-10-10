@@ -3,7 +3,7 @@ title: "BTL, ATL y TTL: la diferencia, sin la jerga de agencia"
 slug: btl-atl-ttl-diferencias
 type: post
 status: publish
-date: 2026-11-15 08:00
+date: 2026-11-10 08:00
 excerpt: "Qué significan ATL, BTL y TTL en publicidad, de dónde viene la famosa 'línea', ejemplos de cada uno y por qué hoy casi toda campaña buena es TTL."
 featured_image: images/btl-atl-ttl-diferencias.png
 featured_alt: "Portada de Publimerca: BTL, ATL y TTL, la diferencia sin la jerga de agencia"

@@ -3,7 +3,7 @@ title: "Cómo hacer un pitch de agencias sin perder tres meses (ni a tu equipo)"
 slug: pitch-de-agencias
 type: post
 status: publish
-date: 2026-11-25 08:00
+date: 2026-11-26 08:00
 excerpt: "Guía práctica para organizar un concurso de agencias: cuándo hacerlo, cuántas invitar, qué pedir, cómo evaluar y los errores que hacen que el pitch salga carísimo para todos."
 featured_image: images/pitch-de-agencias.png
 featured_alt: "Portada de Publimerca: Cómo hacer un pitch de agencias sin perder tres meses. Un pitch típico puede costar hasta 1.2 millones de dólares sumando a todos los involucrados"

@@ -3,7 +3,7 @@ title: "Herramientas de IA para marketing que sí usan los equipos (y para qué)
 slug: herramientas-ia-marketing
 type: post
 status: publish
-date: 2026-11-23 08:00
+date: 2026-11-24 08:00
 excerpt: "Qué herramientas de IA usan los equipos de marketing por tarea: texto, imagen, video, pauta, SEO y análisis. Para qué sirven, dónde fallan y cómo elegir sin llenarte de suscripciones."
 featured_image: images/herramientas-ia-marketing.png
 featured_alt: "Portada de Publimerca: Herramientas de IA para marketing que sí usan los equipos. 9 de cada 10 marketers B2B ya usan IA para contenido"

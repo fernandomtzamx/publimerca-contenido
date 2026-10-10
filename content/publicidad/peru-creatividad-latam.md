@@ -3,7 +3,7 @@ title: "Por qué Perú se volvió la potencia creativa que nadie vio venir"
 slug: peru-creatividad-publicidad-cannes
 type: post
 status: publish
-date: 2026-11-20 08:00
+date: 2026-11-19 08:00
 excerpt: "Perú ganó dos Grand Prix en Cannes Lions 2026, uno más que México. Qué hicieron Circus Grey, McCann Lima y Fahrenheit DDB, y qué puede aprender el resto de LATAM."
 featured_image: images/peru-creatividad-publicidad-cannes.png
 featured_alt: "Portada de Publimerca: Por qué Perú se volvió la potencia creativa que nadie vio venir. Dos Grand Prix en Cannes Lions 2026"

@@ -3,7 +3,7 @@ title: "Marketing de contenidos: por qué tu blog no vende y cómo arreglarlo"
 slug: marketing-de-contenidos
 type: post
 status: publish
-date: 2026-12-18 08:00
+date: 2027-01-07 08:00
 excerpt: "Qué es el marketing de contenidos, por qué la mayoría de los blogs corporativos no generan ventas y un método práctico para crear contenido que atraiga clientes, no solo visitas."
 featured_image: images/marketing-de-contenidos.png
 featured_alt: "Portada de Publimerca: Marketing de contenidos, por qué tu blog no vende y cómo arreglarlo"

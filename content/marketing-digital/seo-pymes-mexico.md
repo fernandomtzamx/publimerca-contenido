@@ -3,7 +3,7 @@ title: "SEO para pymes en México: lo que sí mueve la aguja y lo que es puro ri
 slug: seo-para-pymes-mexico
 type: post
 status: publish
-date: 2026-11-10 08:00
+date: 2026-11-03 08:00
 excerpt: "Guía práctica de SEO para pequeñas empresas en México: qué hacer primero, qué ignorar y cuáles mitos dice Google que no importan. Sin jerga ni promesas mágicas."
 featured_image: images/seo-para-pymes-mexico.png
 featured_alt: "Portada de Publimerca: SEO para pymes en México, lo que sí mueve la aguja y lo que es puro ritual"
