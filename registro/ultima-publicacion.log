@@ -1,23 +1,19 @@
-fecha: 2026-10-17T02:03:43Z
-commit: e46f981dc0a1dd79c899dd0ad345d8d0d0662a1f
+fecha: 2026-10-22T14:41:50Z
+commit: c64071b8e16a839dfe53805f916052d4dd910811
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/38993397239
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/39797848181
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: content/marketing-digital/marca-personal-kam-saas.md 
+Argumentos: content/laboratorio/primeras-dos-semanas.md 
 /home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py:233: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
-  + etiqueta creada: marca personal
-  + etiqueta creada: LinkedIn
-  + etiqueta creada: KAM
-  + etiqueta creada: SaaS
-  + etiqueta creada: ventas B2B
-  + etiqueta creada: social selling
-  + imagen subida: marca-personal-kam-saas.png (id 2038)
-content/marketing-digital/marca-personal-kam-saas.md: post creada (publish) id=2039 https://www.publimerca.com/marca-personal-kam-saas/
+  + etiqueta creada: IA
+  + etiqueta creada: bitácora
+  + imagen subida: medio-operado-por-ia-primeras-dos-semanas.png (id 2040)
+content/laboratorio/primeras-dos-semanas.md: post creada (publish) id=2041 https://www.publimerca.com/medio-operado-por-ia-primeras-dos-semanas/
