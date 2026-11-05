@@ -22,7 +22,7 @@
 - {fecha: 2026-10-27, modo: programada, archivo: content/publicidad/oreo-cows-explicada.md, titulo: "Oreo Cows explicada"}
 - {fecha: 2026-10-29, modo: programada, archivo: content/marketing-digital/problema-seguimiento-leads.md, titulo: "Tu problema no son los leads"}
 - {fecha: 2026-11-03, modo: programada, archivo: content/marketing-digital/seo-pymes-mexico.md, titulo: "SEO para pymes en México"}
-- {fecha: 2026-11-05, modo: evento, archivo: content/publicidad/el-ojo-iberoamerica-2026-favoritas.md, titulo: "El Ojo de Iberoamérica 2026: las agencias que llegan como favoritas", evento: "El Ojo 2026 se celebra del 11 al 13 de noviembre; usar shortlist y antecedentes de 2025"}
+- {fecha: 2026-11-05, modo: publicada, archivo: content/publicidad/el-ojo-iberoamerica-2026-favoritas.md, titulo: "El Ojo de Iberoamérica 2026: las agencias que llegan como favoritas", evento: "El Ojo 2026 se celebra del 11 al 13 de noviembre; usar shortlist y antecedentes de 2025"}
 - {fecha: 2026-11-10, modo: programada, archivo: content/publicidad/btl-atl-ttl.md, titulo: "BTL, ATL y TTL"}
 - {fecha: 2026-11-12, modo: evento, archivo: content/publicidad/effie-mexico-2026-ganadores.md, titulo: "Effie México 2026: ganadores y lo que dicen sobre qué funciona", evento: "Ceremonia Effie México 2026 (fecha por confirmar). Si aún no hay ganadores, publicar en su lugar una pieza perenne del banco de reserva y mover esta"}
 - {fecha: 2026-11-17, modo: programada, archivo: content/industria/inversion-publicitaria-mexico.md, titulo: "Inversión publicitaria en México"}
