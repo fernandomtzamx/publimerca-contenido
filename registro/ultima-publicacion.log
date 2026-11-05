@@ -1,19 +1,19 @@
-fecha: 2026-10-22T14:41:50Z
-commit: c64071b8e16a839dfe53805f916052d4dd910811
+fecha: 2026-11-05T14:40:51Z
+commit: 9fc9378e314e4939aa9912e2a99fe1a477315c1d
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/39797848181
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/42047287572
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: content/laboratorio/primeras-dos-semanas.md 
+Argumentos: content/publicidad/el-ojo-iberoamerica-2026-favoritas.md 
 /home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py:233: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
-  + etiqueta creada: IA
-  + etiqueta creada: bitácora
-  + imagen subida: medio-operado-por-ia-primeras-dos-semanas.png (id 2040)
-content/laboratorio/primeras-dos-semanas.md: post creada (publish) id=2041 https://www.publimerca.com/medio-operado-por-ia-primeras-dos-semanas/
+  + etiqueta creada: El Ojo de Iberoamérica
+  + etiqueta creada: festivales
+  + imagen subida: el-ojo-iberoamerica-2026-favoritas.png (id 2042)
+content/publicidad/el-ojo-iberoamerica-2026-favoritas.md: post creada (publish) id=2043 https://www.publimerca.com/el-ojo-iberoamerica-2026-favoritas/
