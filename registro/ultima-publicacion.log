@@ -1,8 +1,8 @@
-fecha: 2026-11-13T14:39:46Z
-commit: aaf708584d3c7b2dcbe3c32b542e874536bceb80
+fecha: 2026-11-13T14:42:17Z
+commit: 9d56d5905dd895b0e26928cabfe83b4fe024899d
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/43444811392
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/43445182166
 ---
 WP_URL: presente
 WP_USER: presente
@@ -13,5 +13,5 @@ Argumentos: content/industria/inversion-publicitaria-mexico.md
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
-  = imagen reutilizada: inversion-publicitaria-mexico (id 1829)
+  + imagen subida: inversion-publicitaria-mexico-2025.png (id 2047)
 content/industria/inversion-publicitaria-mexico.md: post actualizada (future) id=1830 https://www.publimerca.com/?p=1830
