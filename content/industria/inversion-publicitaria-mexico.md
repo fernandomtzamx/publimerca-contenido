@@ -5,7 +5,7 @@ type: post
 status: publish
 date: 2026-11-17 08:00
 excerpt: "Cuánto se invierte en publicidad en México, cuánto va a digital, cómo se reparte entre video, búsqueda, TV, exterior y retail media, y qué significa para ti."
-featured_image: images/inversion-publicitaria-mexico.png
+featured_image: images/inversion-publicitaria-mexico-2025.png
 featured_alt: "Portada de Publimerca: Inversión publicitaria en México. 66.6% de la inversión publicitaria de 2025 se dirigió a digital"
 categories: [industria]
 tags: [inversión publicitaria, IAB México, medios, datos, México, retail media]
