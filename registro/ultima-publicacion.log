@@ -1,20 +1,17 @@
-fecha: 2026-11-12T14:34:43Z
-commit: ea0b467d18816445a32b7603a8a0ba6e6a321d24
+fecha: 2026-11-13T14:39:46Z
+commit: aaf708584d3c7b2dcbe3c32b542e874536bceb80
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/43238571768
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/43444811392
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: content/publicidad/effie-mexico-2026-ganadores.md 
+Argumentos: content/industria/inversion-publicitaria-mexico.md 
 /home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py:233: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
   if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
-  + etiqueta creada: Effie Awards
-  + etiqueta creada: efectividad
-  + etiqueta creada: premios
-  + imagen subida: effie-mexico-2026-ganadores.png (id 2044)
-content/publicidad/effie-mexico-2026-ganadores.md: post creada (publish) id=2045 https://www.publimerca.com/effie-mexico-2026-ganadores/
+  = imagen reutilizada: inversion-publicitaria-mexico (id 1829)
+content/industria/inversion-publicitaria-mexico.md: post actualizada (future) id=1830 https://www.publimerca.com/?p=1830
