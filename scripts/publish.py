@@ -257,6 +257,21 @@ def publish(wp, path):
     print(f"{path.relative_to(ROOT)}: {kind} {action} ({res['status']}) id={res['id']} {res['link']}")
 
 
+def status_report(wp):
+    """Lista entradas no publicadas y marca las atrasadas (programadas con fecha ya pasada)."""
+    now = datetime.datetime.utcnow()
+    posts = wp.req("GET", "posts", params={"status": "future,draft,pending,private", "per_page": 100,
+                                            "context": "edit", "_fields": "id,slug,status,date,date_gmt"})
+    print(f"\nEstado: {len(posts)} entrada(s) sin publicar")
+    late = 0
+    for x in sorted(posts, key=lambda x: x["date_gmt"]):
+        gmt = datetime.datetime.fromisoformat(x["date_gmt"])
+        flag = "ATRASADA" if x["status"] == "future" and gmt < now else ""
+        late += bool(flag)
+        print(f"  {x['status']:8} {x['date'][:16]} id={x['id']} {x['slug']} {flag}")
+    print(f"Atrasadas: {late}")
+
+
 def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("files", nargs="*")
@@ -268,6 +283,7 @@ def main():
     me = wp.whoami()
     print(f"Conectado como {me.get('username', me.get('name'))} (roles: {', '.join(me.get('roles', []))})")
     if args.check:
+        status_report(wp)
         return
 
     files = sorted(CONTENT_DIR.rglob("*.md")) if args.all else [ROOT / f for f in args.files]
