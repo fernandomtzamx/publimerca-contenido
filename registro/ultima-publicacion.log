@@ -1,17 +1,30 @@
-fecha: 2026-11-13T14:42:17Z
-commit: 9d56d5905dd895b0e26928cabfe83b4fe024899d
+fecha: 2026-11-18T13:01:20Z
+commit: d9bf898c2f7d10177dba927dbd187fa78135c5e4
 evento: push
 resultado: success
-run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/43445182166
+run: https://github.com/fernandomtzamx/publimerca-contenido/actions/runs/44309476444
 ---
 WP_URL: presente
 WP_USER: presente
 WP_APP_PASSWORD: presente
-Argumentos: content/industria/inversion-publicitaria-mexico.md 
-/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py:233: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
-  if payload["status"] == "publish" and gmt > datetime.datetime.utcnow():
+Argumentos: --check
+/home/runner/work/publimerca-contenido/publimerca-contenido/scripts/publish.py:262: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  now = datetime.datetime.utcnow()
 Endpoint: https://www.publimerca.com/wp-json/ (HTTP 200)
 Métodos de autenticación anunciados: application-passwords
 Conectado como aiagent (roles: editor)
-  + imagen subida: inversion-publicitaria-mexico-2025.png (id 2047)
-content/industria/inversion-publicitaria-mexico.md: post actualizada (future) id=1830 https://www.publimerca.com/?p=1830
+
+Estado: 12 entrada(s) sin publicar
+  future   2026-11-19T14:00 id=1862 peru-creatividad-publicidad-cannes 
+  future   2026-11-24T14:00 id=1846 herramientas-ia-marketing 
+  future   2026-11-26T14:00 id=1864 pitch-de-agencias 
+  future   2026-12-01T14:00 id=1866 que-es-un-insight 
+  future   2026-12-03T14:00 id=1860 campanas-navidenas-que-venden 
+  future   2026-12-08T14:00 id=1854 embudo-de-conversion 
+  future   2026-12-10T14:00 id=1848 prompts-para-marketing 
+  future   2026-12-15T14:00 id=1850 agencias-de-medios-mexico-latam 
+  future   2026-12-17T14:00 id=1856 influencer-marketing-mexico 
+  future   2026-12-22T14:00 id=1844 agentes-ia-marketing 
+  future   2027-01-05T14:00 id=1852 agencias-independientes-mexico-latam 
+  future   2027-01-07T14:00 id=1858 marketing-de-contenidos 
+Atrasadas: 0
